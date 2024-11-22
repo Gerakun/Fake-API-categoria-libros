@@ -1,908 +1,508 @@
 {
   "generos": [
-    {
-      "titulo": "¡Piensa! sudoku nivel difícil",
-      "precio": "$45",
-      "genero": "pasatiempos"
-    },
-    {
-      "titulo": "¡Piensa! sudoku nivel fácil",
-      "precio": "$45",
-      "genero": "pasatiempos"
-    },
-    {
-      "titulo": "¡Piensa! sudoku nivel medio",
-      "precio": "$45",
-      "genero": "pasatiempos"
-    },
-    {
-      "titulo": "Crucigramas y mas",
-      "precio": "$25",
-      "genero": "pasatiempos"
-    },
-    {
-      "titulo": "Sopa de letras (letra grande 1)",
-      "precio": "$45",
-      "genero": "pasatiempos"
-    },
-    {
-      "titulo": "Sopas de letras con letra grande",
-      "precio": "$25",
-      "genero": "pasatiempos"
-    },
-    {
-      "titulo": "Sopas de letras jumbo",
-      "precio": "$40",
-      "genero": "pasatiempos"
-    },
-    {
-      "titulo": "Sopas de letras plus",
-      "precio": "$35",
-      "genero": "pasatiempos"
-    },
-    {
-      "titulo": "Sopitas escolares",
-      "precio": "$10",
-      "genero": "pasatiempos"
-    },
-    {
-      "titulo": "Sudoku, intermedio",
-      "precio": "$45",
-      "genero": "pasatiempos"
-    },
-    {
-      "titulo": "Sudoku, principiantes",
-      "precio": "$45",
-      "genero": "pasatiempos"
-    },
-    {
-      "titulo": "Al faro",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Alicia a través del espejo guía de estudio",
-      "precio": "$20",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Alicia en el país de las maravillas",
-      "precio": "$55",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Alicia en el país de las maravillas guía de estudio",
-      "precio": "$20",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Así hablaba Zaratustra",
-      "precio": "$110",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Aventuras y más aventuras, en cómic",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Cinco semanas en globo",
-      "precio": "$85",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Colmillo Blanco",
-      "precio": "$220",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Cumbres Borrascosas",
-      "precio": "$180",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Demian - escolar",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Diario de Ana Frank - infantil punto y coma",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Don quijote de la mancha",
-      "precio": "$25",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Don quijote de la mancha - escolar",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Drácula",
-      "precio": "$25",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Dublineses",
-      "precio": "$85",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Ecce homo cómo se llega a hacer lo que es",
-      "precio": "$55",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "El Anticristo",
-      "precio": "$55",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "El arte de la guerra",
-      "precio": "$55",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "El arte de la guerra (Pasta dura)",
-      "precio": "$200",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "El conde de monte cristo guía de estudio",
-      "precio": "$20",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "El conde de Montecristo",
-      "precio": "$180",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "El conde de Montecristo - escolar",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "El conde de Montecristo (pasta dura)",
-      "precio": "$320",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "El corazón de las tinieblas",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "El corazón de las tinieblas -escolar",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "El diario de Ana Frank",
-      "precio": "$85",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "El extranjero (Pasta dura)",
-      "precio": "$160",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "El libro de la selva - ilustrado 45",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "El libro de la selva - versión",
-      "precio": "$55",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "El nacimiento de la tragedia",
-      "precio": "$85",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "El príncipe feliz",
-      "precio": "$25",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "El príncipe feliz - escolar",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "El Principito francés esp(Deluxe)",
-      "precio": "$210",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "El Principito Francés-español",
-      "precio": "$65",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "El Principito ingles esp(Deluxe )",
-      "precio": "$210",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "El Principito ingles esp(pasta dura)",
-      "precio": "$200",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "El sabueso de los Banskerville (cualquier portada)",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "El Zarco - escolar",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Filosofía de tocador",
-      "precio": "$55",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "La casa chica",
-      "precio": "$110",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "La divina comedia",
-      "precio": "$340",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "La divina comedia - escolar",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "La divina comedia (3 volúmenes)",
-      "precio": "$240",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "La genealogía de la moral",
-      "precio": "$55",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "La guerra de los mundos",
-      "precio": "$190",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "La guerra de los mundos - escolar",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "La isla del tesoro",
-      "precio": "$25",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "La isla del tesoro - (colección los niños y los clasicos)",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "la isla del tesoro - versión",
-      "precio": "$55",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "La isla misteriosa",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "La Odisea",
-      "precio": "$85",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "La señora Dalloway",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "La vida es un sueño",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "La vuelta al mundo en 80 días",
-      "precio": "$25",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "La vuelta al mundo en 80 días - (colección los niños y los clasicos)",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "La vuelta al mundo en 80 días - versión",
-      "precio": "$55",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "La vuelta al mundo en ochenta días - ilustrado a color",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Las aventuras de Sherlock Holmes",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Las aventuras de Tom Sawyer - escolar",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Las aventuras de Tom Sawyer - infantil",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Las aventuras de Tom Sawyer guía de estudio",
-      "precio": "$20",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Las mil y una noches",
-      "precio": "$85",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Lazarillo de Tormes",
-      "precio": "$55",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Los 120 días de Sodoma",
-      "precio": "$190",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Los años",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Los viajes de Gulliver - ilustrado",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Los viajes de Gulliver - ilustrado a color",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Marianela - escolar",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Meditaciones (pasta dura)",
-      "precio": "$190",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Moby Dick",
-      "precio": "$320",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Moby Dick - escolar",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Mujercitas",
-      "precio": "$180",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Mujercitas - escolar",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Ni mejor ni peor, soy diferente",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Novela grafica el principito",
-      "precio": "$110",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Obra selecta: Julio Verne",
-      "precio": "$320",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Obras maestras: Hermann Hesse",
-      "precio": "$190",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Obras maestras: Marqués de Sade",
-      "precio": "$190",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Oliver Twist",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Poema de Mío Cid - escolar",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Poesía prehispánica: Flor y canto",
-      "precio": "$220",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Popol Vuh",
-      "precio": "$65",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Popol Vuh - escolar",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Romeo y Julieta - escolar",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Siddhartha",
-      "precio": "$55",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Sinuhé el egipcio - (colección los niños y los clasicos)",
-      "precio": "$45",
-      "genero": "clasicos"
+      {
+      "titulo": "Diario de Greg Vol. 1: Un renacuajo.",
+      "precio": $160,
+      "genero": "infantil"
     },
     {
-      "titulo": "Sinuhé el egipcio - versión abreviada",
-      "precio": "$55",
-      "genero": "clasicos"
+      "titulo": "Diario de Greg Vol. 2: La ley de Rodrick.",
+      "precio": $160,
+      "genero": "infantil"
     },
     {
-      "titulo": "Todos los hombres",
-      "precio": "$110",
-      "genero": "clasicos"
+      "titulo": "Diario de Greg Vol. 3: ¡Esto es el colmo!.",
+      "precio": $160,
+      "genero": "infantil"
     },
     {
-      "titulo": "Un mundo feliz",
-      "precio": "$210",
-      "genero": "clasicos"
+      "titulo": "Diario de Greg Vol. 4: Días de perros.",
+      "precio": $160,
+      "genero": "infantil"
     },
     {
-      "titulo": "Un mundo feliz(edición simple)",
-      "precio": "$65",
-      "genero": "clasicos"
+      "titulo": "Diario de Greg Vol. 5: La Cruda Realidad.",
+      "precio": $160,
+      "genero": "infantil"
     },
     {
-      "titulo": "Veinte mil leguas de viaje submarino",
-      "precio": "$25",
-      "genero": "clasicos"
+      "titulo": "Diario de Greg Vol. 6: ¡Atrapados en la nieve!",
+      "precio": $160,
+      "genero": "infantil"
     },
     {
-      "titulo": "Veinte mil leguas de viaje submarino - escolar",
-      "precio": "$45",
-      "genero": "clasicos"
+      "titulo": "Diario de Greg Vol. 7: Buscando Plan…",
+      "precio": $160,
+      "genero": "infantil"
     },
     {
-      "titulo": "Viaje al centro de la tierra",
-      "precio": "$45",
-      "genero": "clasicos"
+      "titulo": "Diario de Greg Vol. 8: Mala suerte.",
+      "precio": $160,
+      "genero": "infantil"
     },
     {
-      "titulo": "El superpoder de cagarla siempre",
-      "precio": "$210",
+      "titulo": "Las 48 leyes del poder",
+      "precio": $340,
       "genero": "autoayuda"
     },
     {
-      "titulo": "¿Amar o depender?",
-      "precio": "$190",
-      "genero": "autoayuda"
+      "titulo": "El mapa de los anhelos",
+      "precio": $260,
+      "genero": "romance"
     },
     {
-      "titulo": "¿Quién se ha llevado mi queso?: Cómo adaptarnos a un mundo en constante cambio",
-      "precio": "$130",
-      "genero": "autoayuda"
+      "titulo": "Romper el círculo",
+      "precio": $240,
+      "genero": "romance"
     },
     {
-      "titulo": "4 en 1 Saint Germain",
-      "precio": "$110",
-      "genero": "autoayuda"
+      "titulo": "Volver a empezar",
+      "precio": $240,
+      "genero": "romance"
     },
     {
-      "titulo": "7 heridas de la infancia que te marcan para siempre y cómo sanarlas jugando: Reconectando con tu niño/a interior para impactar y transformar vidas",
-      "precio": "$180",
-      "genero": "autoayuda"
+      "titulo": "La química del amor",
+      "precio": $260,
+      "genero": "romance"
     },
     {
-      "titulo": "A través del tiempo",
-      "precio": "$220",
-      "genero": "autoayuda"
+      "titulo": "La hipótesis del amor",
+      "precio": $260,
+      "genero": "romance"
     },
     {
-      "titulo": "Arregla tu desmadre",
-      "precio": "$210",
-      "genero": "autoayuda"
+      "titulo": "La teoría del amor",
+      "precio": $260,
+      "genero": "romance"
     },
     {
-      "titulo": "Bullying en primaria, Como ayudar a tu hijo",
-      "precio": "$45",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Burlar al Diablo: Secretos Desde la Cripta",
-      "precio": "$190",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Cómo ganar amigos e influir sobre las personas",
-      "precio": "$210",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Cómo hacer que te pasen cosas buenas",
-      "precio": "$230",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Cuentos de todos: (y de otros también)",
-      "precio": "$110",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Cuestión de dignidad: El derecho a decir no",
-      "precio": "$190",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Deja de ser tu",
-      "precio": "$240",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Deshacer la ansiedad",
-      "precio": "$200",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Destroza este diario a blanco y negro",
-      "precio": "$160",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Destroza este diario. Ahora a todo color",
-      "precio": "$190",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Doña Huevotes",
-      "precio": "$200",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Educación en casa, De los primeros meses hasta jardín de niños",
-      "precio": "$45",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Educar con disciplina y afecto",
-      "precio": "$45",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "El arte de amar",
-      "precio": "$160",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "El arte de la seducción",
-      "precio": "$340",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "El caballero de la armadura oxidada",
-      "precio": "$140",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "El Club de Las 5 de la Mañana: Controla Tus Mañanas, Impulsa Tu Vida",
-      "precio": "$220",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "El cuadrante del flujo de dinero",
-      "precio": "$220",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "El efecto compuesto",
-      "precio": "$160",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "El hombre más rico de Babilonia",
-      "precio": "$160",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "El lado B de las emociones",
-      "precio": "$200",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "El libro de las emociones",
-      "precio": "$85",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "El monje que vendió su Ferrari",
-      "precio": "$160",
+      "titulo": "Sobrenatural",
+      "precio": $240,
       "genero": "autoayuda"
     },
     {
       "titulo": "El placebo eres tu",
-      "precio": "$240",
+      "precio": $240,
       "genero": "autoayuda"
     },
     {
-      "titulo": "El poder del ahora",
-      "precio": "$210",
+      "titulo": "Deja de ser tu",
+      "precio": $240,
       "genero": "autoayuda"
     },
     {
-      "titulo": "El Quinto Acuerdo: Una Guía Práctica Para La Maestría Personal",
-      "precio": "$160",
-      "genero": "autoayuda"
+      "titulo": "Los ojos de mi princesa",
+      "precio": $220,
+      "genero": "ficcion"
     },
     {
-      "titulo": "El secreto",
-      "precio": "$160",
-      "genero": "autoayuda"
+      "titulo": "Los ojos de mi princesa 2",
+      "precio": $220,
+      "genero": "ficcion"
     },
     {
-      "titulo": "El sutil arte de que te importe un carajo: Un enfoque disruptivo para vivir una buena vida",
-      "precio": "$210",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "El vendedor más grande del mundo II",
-      "precio": "$140",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Enamórate de ti",
-      "precio": "$190",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Encuentra tu persona vitamina",
-      "precio": "$230",
-      "genero": "autoayuda"
+      "titulo": "Sheccid. Cuando el amor duele",
+      "precio": $220,
+      "genero": "ficcion"
     },
     {
       "titulo": "Este dolor no es mío. Identifica y resuelve los traumas familiares heredados",
-      "precio": "$230",
+      "precio": $230,
       "genero": "autoayuda"
     },
     {
-      "titulo": "Generación idiota: Una crítica al adolescentrismo",
-      "precio": "$210",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Guía práctica para ser feliz ¡Ya!",
-      "precio": "$25",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Hábitos Atómicos",
-      "precio": "$220",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Inteligencia emocional, cosa de dos",
-      "precio": "$25",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "La biblia del vendedor (Técnicas efectivas para el vendedor competitivo)",
-      "precio": "$160",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "La gran enciclopedia de la psicología: Leer a las personas, reconocer y utilizar las técnicas de manipulación, controlar sentimientos, deshacerse de los ... personalidad y mucho más",
-      "precio": "$180",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "La inteligencia emocional: Por qué es más importante que el cociente intelectual",
-      "precio": "$210",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "La ley de la atracción",
-      "precio": "$45",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "La maestría del amor: Una guía práctica para el arte de las relaciones",
-      "precio": "$160",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "La psicología del dinero: Cómo piensan los ricos: 18 claves imperecederas sobre riqueza y felicidad",
-      "precio": "$230",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "La sanación de las 5 heridas",
-      "precio": "$160",
+      "titulo": "Arregla tu desmadre",
+      "precio": $210,
       "genero": "autoayuda"
     },
     {
       "titulo": "LA VIDA SON 2 PUTOS DÍAS: Un reto consciente que llevará al límite tu mente mortal",
-      "precio": "$220",
+      "precio": $220,
       "genero": "autoayuda"
     },
     {
-      "titulo": "Las 48 leyes del poder",
-      "precio": "$340",
+      "titulo": "Muchas vidas, muchos maestros",
+      "precio": $220,
       "genero": "autoayuda"
     },
     {
-      "titulo": "Las mujeres que aman demasiado",
-      "precio": "$240",
+      "titulo": "El Club de Las 5 de la Mañana: Controla Tus Mañanas, Impulsa Tu Vida",
+      "precio": $220,
+      "genero": "autoayuda"
+    },
+    {
+      "titulo": "Hábitos Atómicos",
+      "precio": $230,
       "genero": "autoayuda"
     },
     {
       "titulo": "Las Trampas Del Miedo: Una visita a las dimensiones biológicas, psicológicas y espirituales para desmantelar el temor paralizante y la tiranía del autosabotaje",
-      "precio": "$260",
+      "precio": $260,
       "genero": "autoayuda"
     },
     {
-      "titulo": "Los 7 hábitos de la gente altamente efectiva",
-      "precio": "$210",
+      "titulo": "Mi amor de wattpad",
+      "precio": $230,
+      "genero": "romance"
+    },
+    {
+      "titulo": "Un grito desesperado",
+      "precio": $160,
+      "genero": "autoayuda"
+    },
+    {
+      "titulo": "La maestría del amor: Una guía práctica para el arte de las relaciones",
+      "precio": $160,
+      "genero": "autoayuda"
+    },
+    {
+      "titulo": "El Quinto Acuerdo: Una Guía Práctica Para La Maestría Personal",
+      "precio": $160,
       "genero": "autoayuda"
     },
     {
       "titulo": "Los cuatro acuerdos: Un libro de sabiduría tolteca",
-      "precio": "$160",
+      "precio": $160,
       "genero": "autoayuda"
     },
     {
-      "titulo": "Los límites del amor",
-      "precio": "$190",
+      "titulo": "Generación idiota: Una crítica al adolescentrismo",
+      "precio": $210,
       "genero": "autoayuda"
     },
     {
-      "titulo": "Los secretos de la mente millonaria: Cómo dominar el juego interior de la riqueza",
-      "precio": "$190",
+      "titulo": "El poder del ahora",
+      "precio": $210,
       "genero": "autoayuda"
     },
     {
-      "titulo": "Manual para no morir de amor: Diez principios de supervivencia afectiva",
-      "precio": "$210",
+      "titulo": "La inteligencia emocional: Por qué es más importante que el cociente intelectual",
+      "precio": $210,
       "genero": "autoayuda"
     },
     {
-      "titulo": "Metafísica",
-      "precio": "$110",
-      "genero": "autoayuda"
+      "titulo": "Tres promesas",
+      "precio": $210,
+      "genero": "romance"
     },
     {
-      "titulo": "Metafísica 4 en 1",
-      "precio": "$105",
-      "genero": "autoayuda"
+      "titulo": "Coraline",
+      "precio": $160,
+      "genero": "infantil"
     },
     {
-      "titulo": "Muchos cuerpos, una misma alma",
-      "precio": "$220",
-      "genero": "autoayuda"
+      "titulo": "Los ojos de plata",
+      "precio": $220,
+      "genero": "infantil"
     },
     {
-      "titulo": "Padre Rico, Padre Pobre",
-      "precio": "$190",
-      "genero": "autoayuda"
+      "titulo": "Los otros animatrónicos",
+      "precio": $220,
+      "genero": "infantil"
     },
     {
-      "titulo": "Pequeño Cerdo Capitalista",
-      "precio": "$210",
-      "genero": "autoayuda"
+      "titulo": "Uno siempre cambia al amor de su vida (por otro amor o por otra vida)",
+      "precio": $200,
+      "genero": "romance"
     },
     {
-      "titulo": "Piense y hágase rico",
-      "precio": "$210",
-      "genero": "autoayuda"
+      "titulo": "Nadie Tiene Que Saberlo Excepto Tú",
+      "precio": $180,
+      "genero": "romance"
     },
     {
-      "titulo": "PNL Técnicas prohibidas de Persuasión",
-      "precio": "$210",
-      "genero": "autoayuda"
+      "titulo": "El (des)amor que jamás viví",
+      "precio": $180,
+      "genero": "romance"
     },
     {
-      "titulo": "Por que los hombres aman a las cabronas: De arrastrada a mujer ideal",
-      "precio": "$170",
+      "titulo": "Latidos que no dije",
+      "precio": $180,
+      "genero": "romance"
+    },
+    {
+      "titulo": "Psicología oscura: Una guía esencial de persuasión, manipulación, engaño, control mental, negociación, conducta humana, PNL y guerra psicológica",
+      "precio": $210,
       "genero": "autoayuda"
     },
     {
       "titulo": "PSICOLOGÍA OSCURA & MANIPULACIÓN MENTAL: 5 libros en 1 Técnicas Ocultas de Psicología Oscura, PNL y Persuasión | Terapia Cognitivo Conductual (TCC), ... e Inteligencia Emocional.",
-      "precio": "$340",
+      "precio": $340,
       "genero": "autoayuda"
     },
     {
-      "titulo": "Psicología oscura: Una guía esencial de persuasión, manipulación, engaño, control mental, negociación, conducta humana, PNL y guerra psicológica",
-      "precio": "$210",
+      "titulo": "El hombre más rico de Babilonia",
+      "precio": $160,
       "genero": "autoayuda"
     },
     {
-      "titulo": "Querida Yo: tenemos que hablar. Conócete y sé feliz contigo",
-      "precio": "$160",
+      "titulo": "PNL Técnicas prohibidas de Persuasión",
+      "precio": $210,
       "genero": "autoayuda"
     },
     {
-      "titulo": "Reflexiones y pensamientos vol. 1",
-      "precio": "$25",
+      "titulo": "¿Quién se ha llevado mi queso?: Cómo adaptarnos a un mundo en constante cambio",
+      "precio": $130,
+      "genero": "autoayuda"
+    },
+ {
+      "titulo": "Los siete maridos de Evelyn Hugo",
+      "precio": $240,
+      "genero": "romance"
+    },
+    {
+      "titulo": "Culpa mía",
+      "precio": $260,
+      "genero": "romance"
+    },
+    {
+      "titulo": "Culpa tuya",
+      "precio": $260,
+      "genero": "romance"
+    },
+    {
+      "titulo": "Culpa nuestra",
+      "precio": $260,
+      "genero": "romance"
+    },
+    {
+      "titulo": "Comer, rezar, amar",
+      "precio": $280,
+      "genero": "romance"
+    },
+    {
+      "titulo": "Donde todo brilla",
+      "precio": $280,
+      "genero": "romance"
+    },
+    {
+      "titulo": "Aristóteles y Dante se sumergen en las aguas del mundo",
+      "precio": $260,
+      "genero": "ficcion"
+    },
+    {
+      "titulo": "El psicoanalista",
+      "precio": $260,
+      "genero": "ficcion"
+    },
+    {
+      "titulo": "Damián: Un secreto oscuro y perverso",
+      "precio": $260,
+      "genero": "terror"
+    },
+    {
+      "titulo": "El murmullo de las abejas",
+      "precio": $280,
+      "genero": "ficcion"
+    },
+    {
+      "titulo": "Te espero en el fin del mundo",
+      "precio": $280,
+      "genero": "romance"
+    },
+    {
+      "titulo": "El arte de la seducción",
+      "precio": $340,
       "genero": "autoayuda"
     },
     {
-      "titulo": "Reflexiones y pensamientos vol. 2",
-      "precio": "$25",
+      "titulo": "Rojo, blanco y sangre azul",
+      "precio": $280,
+      "genero": "romance"
+    },
+    {
+      "titulo": "Tus Zonas Erróneas: Guía Para Combatir Las Causas de la Infelicidad",
+      "precio": $160,
       "genero": "autoayuda"
     },
     {
-      "titulo": "Reflexiones y pensamientos vol. 3",
-      "precio": "$25",
+      "titulo": "Fortaleza digital",
+      "precio": $260,
+      "genero": "ficcion"
+    },
+    {
+      "titulo": "Trenza del Mar Esmeralda",
+      "precio": $260,
+      "genero": "ficcion"
+    },
+    {
+      "titulo": "Cazadores de sombras. Ciudad de ceniza. Vol. 2",
+      "precio": $240,
+      "genero": "ficcion"
+    },
+    {
+      "titulo": "El resplandor",
+      "precio": $260,
+      "genero": "terror"
+    },
+    {
+      "titulo": "Cuestión de dignidad: El derecho a decir no",
+      "precio": $190,
       "genero": "autoayuda"
     },
     {
-      "titulo": "Rompe el ciclo (aprende a nutrir de amor y confianza tu relación)",
-      "precio": "$180",
+      "titulo": "Ya te dije adiós, ahora cómo te olvido",
+      "precio": $190,
+      "genero": "autoayuda"
+    },
+    {
+      "titulo": "¿Amar o depender?",
+      "precio": $190,
+      "genero": "autoayuda"
+    },
+    {
+      "titulo": "Los límites del amor",
+      "precio": $190,
+      "genero": "autoayuda"
+    },
+    {
+      "titulo": "Enamórate de ti",
+      "precio": $190,
+      "genero": "autoayuda"
+    },
+    {
+      "titulo": "Manual para no morir de amor: Diez principios de supervivencia afectiva",
+      "precio": $210,
+      "genero": "autoayuda"
+    },
+    {
+      "titulo": "Boulevard: La versión de Flor",
+      "precio": $220,
+      "genero": "romance"
+    },
+    {
+      "titulo": "Boulevard 2: Después de él",
+      "precio": $220,
+      "genero": "romance"
+    },
+    {
+      "titulo": "Antes de ella (Boulevard 3)",
+      "precio": $220,
+      "genero": "romance"
+    },
+    {
+      "titulo": "Por qué los hombres aman a las cabronas: De arrastrada a mujer ideal",
+      "precio": $170,
+      "genero": "autoayuda"
+    },
+    {
+      "titulo": "Pequeño Cerdo Capitalista",
+      "precio": $210,
+      "genero": "autoayuda"
+    },
+    {
+      "titulo": "La psicología del dinero: Cómo piensan los ricos: 18 claves imperecederas sobre riqueza y felicidad",
+      "precio": $230,
+      "genero": "autoayuda"
+    },
+    {
+      "titulo": "Padre Rico, Padre Pobre",
+      "precio": $210,
+      "genero": "autoayuda"
+    },
+    {
+      "titulo": "Los 7 hábitos de la gente altamente efectiva",
+      "precio": $220,
+      "genero": "autoayuda"
+    },
+    {
+      "titulo": "El super poder de cagarla siempre",
+      "precio": $210,
+      "genero": "autoayuda"
+    },
+    {
+      "titulo": "7 heridas de la infancia que te marcan para siempre y cómo sanarlas jugando: Reconectando con tu niño/a interior para impactar y transformar vidas",
+      "precio": $180,
+      "genero": "autoayuda"
+    },
+    {
+      "titulo": "La gran enciclopedia de la psicología: Leer a las personas, reconocer y utilizar las técnicas de manipulación, controlar sentimientos, deshacerse de los ... personalidad y mucho más",
+      "precio": $180,
       "genero": "autoayuda"
     },
     {
       "titulo": "Ser Chingón Sin Ir A Harvard",
-      "precio": "$160",
+      "precio": 160,
       "genero": "autoayuda"
     },
     {
-      "titulo": "Si lo crees, lo creas",
-      "precio": "$210",
+      "titulo": "El peregrino (Diario de un mago)",
+      "precio": $160,
+      "genero": "ficcion"
+    },
+    {
+      "titulo": "El Alquimista",
+      "precio": $160,
+      "genero": "ficcion"
+    },
+    {
+      "titulo": "Adulterio",
+      "precio": $180,
+      "genero": "ficcion"
+    },
+    {
+      "titulo": "A través de la lluvia",
+      "precio": $220,
+      "genero": "romance"
+    },
+    {
+      "titulo": "A través de ti",
+      "precio": $220,
+      "genero": "romance"
+    },
+    {
+      "titulo": "A través de mi ventana",
+      "precio": $220,
+      "genero": "romance"
+    },
+    {
+      "titulo": "Las mujeres que aman demasiado",
+      "precio": $240,
       "genero": "autoayuda"
     },
     {
-      "titulo": "Sobrenatural",
-      "precio": "$240",
+      "titulo": "Sí, si es contigo",
+      "precio": $230,
+      "genero": "romance"
+    },
+    {
+      "titulo": "Punk 57",
+      "precio": $230,
+      "genero": "romance"
+    },
+    {
+      "titulo": "Juventud en éxtasis",
+      "precio": $160,
+      "genero": "romance"
+    },
+    {
+      "titulo": "Invisible (Edición ilustrada)",
+      "precio": $230,
+      "genero": "romance"
+    },
+    {
+      "titulo": "Antes de diciembre",
+      "precio": $260,
+      "genero": "romance"
+    },
+    {
+      "titulo": "Después de diciembre",
+      "precio": $260,
+      "genero": "romance"
+    },
+    {
+      "titulo": "Tres meses",
+      "precio": $260,
+      "genero": "romance"
+    },
+     {
+      "titulo": "Cómo hacer que te pasen cosas buenas",
+      "precio": "$230",
+      "genero": "ayuda para padres"
+    },
+    {
+      "titulo": "Encuentra tu persona vitamina",
+      "precio": "$230",
       "genero": "autoayuda"
     },
     {
@@ -911,1219 +511,9 @@
       "genero": "autoayuda"
     },
     {
-      "titulo": "Tus Zonas Erróneas: Guía Para Combatir Las Causas de la Infelicidad",
+      "titulo": "El efecto compuesto",
       "precio": "$160",
       "genero": "autoayuda"
-    },
-    {
-      "titulo": "Un grito desesperado",
-      "precio": "$160",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Una vida sin salud mental",
-      "precio": "$180",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Véndele a la mente, no a la gente",
-      "precio": "$180",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Volver al amor",
-      "precio": "$230",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Ya te dije adiós, ahora cómo te olvido",
-      "precio": "$190",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Adolf Hitler: Más allá de las sombras",
-      "precio": "$320",
-      "genero": "biografia"
-    },
-    {
-      "titulo": "Biografía mexicanos ilustres (diversos)",
-      "precio": "$45",
-      "genero": "biografia"
-    },
-    {
-      "titulo": "Che Guevara dedicatoria",
-      "precio": "$55",
-      "genero": "biografia"
-    },
-    {
-      "titulo": "Diario de Ana Frank - escolar",
-      "precio": "$45",
-      "genero": "biografia"
-    },
-    {
-      "titulo": "El diario de Ana Frank (Pasta dura)",
-      "precio": "$200",
-      "genero": "biografia"
-    },
-    {
-      "titulo": "El traidor: El diario secreto del hijo del Mayo",
-      "precio": "$220",
-      "genero": "biografia"
-    },
-    {
-      "titulo": "Emma y las otras señoras del narco",
-      "precio": "$200",
-      "genero": "biografia"
-    },
-    {
-      "titulo": "Freddie Mercury. Una biología",
-      "precio": "$160",
-      "genero": "biografia"
-    },
-    {
-      "titulo": "Hitler biografía ilustrada",
-      "precio": "$85",
-      "genero": "biografia"
-    },
-    {
-      "titulo": "La madre Teresa",
-      "precio": "$45",
-      "genero": "biografia"
-    },
-    {
-      "titulo": "Los hornos de Hitler",
-      "precio": "$190",
-      "genero": "biografia"
-    },
-    {
-      "titulo": "Me alegro que mi madre haya muerto",
-      "precio": "$230",
-      "genero": "biografia"
-    },
-    {
-      "titulo": "Muchas vidas, muchos maestros",
-      "precio": "$220",
-      "genero": "biografia"
-    },
-    {
-      "titulo": "Cementerio de animales",
-      "precio": "$210",
-      "genero": "terror"
-    },
-    {
-      "titulo": "Cuentos de Edgar Allan Poe",
-      "precio": "$45",
-      "genero": "terror"
-    },
-    {
-      "titulo": "Cuentos Macabros",
-      "precio": "$95",
-      "genero": "terror"
-    },
-    {
-      "titulo": "Cuentos mexicanos de horror y misterio",
-      "precio": "$45",
-      "genero": "terror"
-    },
-    {
-      "titulo": "Damián: Un secreto oscuro y perverso",
-      "precio": "$260",
-      "genero": "terror"
-    },
-    {
-      "titulo": "Desde el más allá y otros cuentos",
-      "precio": "$95",
-      "genero": "terror"
-    },
-    {
-      "titulo": "Después",
-      "precio": "$190",
-      "genero": "terror"
-    },
-    {
-      "titulo": "El caso de Charles Dexter Ward",
-      "precio": "$95",
-      "genero": "terror"
-    },
-    {
-      "titulo": "El chico de la piel de cerdo y otros relatos que jamás deberías leer",
-      "precio": "$240",
-      "genero": "terror"
-    },
-    {
-      "titulo": "El ciclo onírico (II) (Obras maestras II)",
-      "precio": "$180",
-      "genero": "terror"
-    },
-    {
-      "titulo": "El diablillo en la botella",
-      "precio": "$45",
-      "genero": "terror"
-    },
-    {
-      "titulo": "El horror de Dunwich y más clásicos de Lovecraft",
-      "precio": "$95",
-      "genero": "terror"
-    },
-    {
-      "titulo": "El lazo de medusa y otros relatos de terror",
-      "precio": "$95",
-      "genero": "terror"
-    },
-    {
-      "titulo": "El que susurra en la oscuridad y otros relatos breves de terror",
-      "precio": "$95",
-      "genero": "terror"
-    },
-    {
-      "titulo": "El resplandor",
-      "precio": "$260",
-      "genero": "terror"
-    },
-    {
-      "titulo": "El visitante",
-      "precio": "$280",
-      "genero": "terror"
-    },
-    {
-      "titulo": "Historias macabras (I) (Obras maestras I)",
-      "precio": "$190",
-      "genero": "terror"
-    },
-    {
-      "titulo": "La historia del Necronomicón y otros cuentos prohibidos",
-      "precio": "$95",
-      "genero": "terror"
-    },
-    {
-      "titulo": "La mano peluda y otras leyendas de la colonia",
-      "precio": "$45",
-      "genero": "terror"
-    },
-    {
-      "titulo": "La muerte alada y otros cuentos de terror",
-      "precio": "$95",
-      "genero": "terror"
-    },
-    {
-      "titulo": "La terrible mirada de la bruja y otros relatos de terror",
-      "precio": "$45",
-      "genero": "terror"
-    },
-    {
-      "titulo": "Leyendas de todo México",
-      "precio": "$65",
-      "genero": "terror"
-    },
-    {
-      "titulo": "Leyendas latinoamericanas",
-      "precio": "$45",
-      "genero": "terror"
-    },
-    {
-      "titulo": "Leyendas mexicanas de terror",
-      "precio": "$45",
-      "genero": "terror"
-    },
-    {
-      "titulo": "Los Mitos de Cthulhu I (Obras maestras III)",
-      "precio": "$180",
-      "genero": "terror"
-    },
-    {
-      "titulo": "Los ojos de plata",
-      "precio": "$220",
-      "genero": "terror"
-    },
-    {
-      "titulo": "Los otros animatrónicos",
-      "precio": "$220",
-      "genero": "terror"
-    },
-    {
-      "titulo": "Los sueños en la casa de la bruja y otros cuentos de terror",
-      "precio": "$95",
-      "genero": "terror"
-    },
-    {
-      "titulo": "Los sueños en la casa de la bruja y otros relatos fantásticos",
-      "precio": "$45",
-      "genero": "terror"
-    },
-    {
-      "titulo": "¡A que no te sabes este!",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "70 tareas divertidas ciencia",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "70 tareas divertidas matemáticas",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "A divertirse con las matemáticas 1 - 6",
-      "precio": "$55",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Actividades científicas para primaria experimentos",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Aprenda a tocar guitarra sin complicaciones",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Aprende a tocar tu guitarra varios artistas",
-      "precio": "$25",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Aprendiendo los valores",
-      "precio": "$25",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Aprendo Ortografía 1",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Aprendo Ortografía 2",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Aprendo Ortografía 3",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Aprendo Ortografía 4",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Aprendo Ortografía 5",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Aprendo y repaso con líneas y puntos",
-      "precio": "$25",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Comprensión lectora 5° de primaria",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Diccionario básico de física",
-      "precio": "$35",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Diccionario de matemáticas",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Educar con valores 4",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "El abecedario",
-      "precio": "$25",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Figuras geométricas",
-      "precio": "$25",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Guía escolar 1° de primaria",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Guía escolar 3° de primaria",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Guía escolar 5° de primaria",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Guía escolar2° de primaria",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Guía escolar4° de primaria",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Guía practica para aprender francés",
-      "precio": "$25",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Las fracciones",
-      "precio": "$25",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Las multiplicaciones",
-      "precio": "$25",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Las silabas",
-      "precio": "$25",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Las vocales",
-      "precio": "$25",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Leo y comprendo 1",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Leo y comprendo 2",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Leo y comprendo 3",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Leo y comprendo 4",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Leo y comprendo 5",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Leo y comprendo 6",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Matemáticas para primaria 1",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Matemáticas para primaria 3",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Mi pequeña guía de lectoescritura",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Mi pequeña guía de lectura de comprensión",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Mi primer libro de experimentos científicos primaria",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Mis primeras formas",
-      "precio": "$75",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Multiplicaciones",
-      "precio": "$40",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Multiplicaciones Repaso para niños",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "My First Bilingual Picture Dictionary / Mi Primer Diccionario Bilingüe Ilustrado",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Ortografía 3° de primaria",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Ortografía 5° de primaria",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Súper tips experimentos científicos para primaria",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Vacaciones, tareas de repaso",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Yo aprendo a escribir (4-5 años)",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Yo aprendo matemáticas (3-4 años)",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Yo aprendo matemáticas (5-6 años)",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Aladino y la lámpara mágica y otros cuentos para niños",
-      "precio": "$35",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Aladino y la lámpara maravillosa",
-      "precio": "$25",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Alicia en el país de las maravillas",
-      "precio": "$25",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Alicia en el país de las maravillas comic",
-      "precio": "$20",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Astutos piratas",
-      "precio": "$35",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Aventuras de piratas",
-      "precio": "$35",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Biografías, Dinosaurios ilustradas",
-      "precio": "$25",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Cenicienta, cuentos de siempre - libro brillante",
-      "precio": "$85",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Colección el tesoro de los cuentos clásicos (varios títulos)",
-      "precio": "$35",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Colmillo Blanco",
-      "precio": "$25",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Coraline",
-      "precio": "$160",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Cuentos de fantasmas para niños",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Cuentos de los hermanos Grimm / Heidi",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "David Copperfield",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "De la tierra a la luna - ilustrado a color",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "De la Tierra a la Luna en comic",
-      "precio": "$20",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "De la tierra a la luna- infantil",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Demian en comic",
-      "precio": "$20",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Diario de Ana Frank en comic",
-      "precio": "$20",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Diario de Greg Vol. 1: Un renacuajo.",
-      "precio": "$160",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Diario de Greg Vol. 2: La ley de Rodrick.",
-      "precio": "$160",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Diario de Greg Vol. 3: ¡Esto es el colmo!.",
-      "precio": "$160",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Diario de Greg Vol. 4: Días de perros.",
-      "precio": "$160",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Diario de Greg Vol. 5: La Cruda Realidad.",
-      "precio": "$160",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Diario de Greg Vol. 6: ¡Atrapados en la nieve!",
-      "precio": "$160",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Diario de Greg Vol. 7: Buscando Plan…",
-      "precio": "$160",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Diario de Greg Vol. 8:  Mala suerte.",
-      "precio": "$160",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Dinosaurios",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Disfraces de superhéroes",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Drácula en comic",
-      "precio": "$20",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "El conde de Montecristo - colección cometa",
-      "precio": "$25",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "El libro de la selva 45",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "El mago de oz - ilustrado a color",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "El mono ladrón, cuentos de animales y sus hábitats",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "El monstruo invisible y otros cuentos de misterio y terror",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "El mundo de los unicornios",
-      "precio": "$230",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "El príncipe inteligente y otros cuentos de príncipes",
-      "precio": "$35",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "El príncipe malvado y otros cuentos",
-      "precio": "$35",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "El príncipe serpiente y otros cuentos clásicos",
-      "precio": "$35",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "El príncipe y el caballo y otros cuentos de príncipes",
-      "precio": "$35",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "El principito - escolar",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "El principito (Pasta dura, edición bolsillo)",
-      "precio": "$75",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "El principito en comic",
-      "precio": "$20",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "El retrato de Dorian Gray - infantil",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "El ultimo dragón dorado y otros cuentos de caballeros y dragones",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Entretenimiento con dinosaurios",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Fabulas en ingles",
-      "precio": "$25",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Fabulas, pasatiempos, cuentos, adivinanzas vol. 1",
-      "precio": "$25",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Frankenstein en comic",
-      "precio": "$20",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Heidi - ilustrado a color",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Inventos. Historia ilustrada del fuego",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "La alegría",
-      "precio": "$20",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "La amistad",
-      "precio": "$20",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "La autoestima",
-      "precio": "$20",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "La bella durmiente",
-      "precio": "$25",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "La bella durmiente - ilustrado a color",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "La bella y la bestia",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "La diversidad",
-      "precio": "$20",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "La generosidad",
-      "precio": "$20",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "La isla del tesoro y otros cuentos clásicos",
-      "precio": "$35",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "La mano de oro y otros cuentos para niños",
-      "precio": "$35",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "La niña de los cerillos y otros cuentos para niñas",
-      "precio": "$35",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "La paz",
-      "precio": "$20",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "La pequeña princesa y otros cuentos de princesas",
-      "precio": "$35",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "La princesa y el ángel y otros cuentos de princesas",
-      "precio": "$35",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "La prudencia",
-      "precio": "$20",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "La ranita y el príncipe y otros cuentos de príncipes",
-      "precio": "$35",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "La sirenita",
-      "precio": "$25",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "La tierra de los dinosaurios",
-      "precio": "$230",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Las aventuras de simbad y Aladino",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Las diez hadas y otros cuentos para niñas",
-      "precio": "$35",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Las doce princesas bailarinas y otros cuentos para niñas",
-      "precio": "$35",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Las historias de Tony el mamut",
-      "precio": "$35",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Los Compas",
-      "precio": "$220",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Los mejores cuentos para niños vol. 3",
-      "precio": "$25",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Los mejores cuentos para niños vol. 4",
-      "precio": "$25",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Los mejores juegos, Mucha diversión para tus amigos",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Los tres mosqueteros - ilustrado",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Mega libro de los dinosaurios",
-      "precio": "$85",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Orlando el valiente y otros cuentos para niños",
-      "precio": "$35",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "PAW Patrol 12 libros de cartón",
-      "precio": "$290",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Pequeño lobo y otros cuentos para niños",
-      "precio": "$35",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Peter Pan - escolar",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Pictogramas con pegatinas",
-      "precio": "$35",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Pinocho",
-      "precio": "$25",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Pinocho - ilustrado",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Pinocho,  cuentos de siempre - libro brillante",
-      "precio": "$85",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Piratas",
-      "precio": "$35",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Princesita Sofia 12 libros de cartón",
-      "precio": "$290",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Reino de sirenas, el deseo de Shyanna",
-      "precio": "$55",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Star Wars mega cuentos de colores",
-      "precio": "$55",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Todo para entretenerte",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Tremendos piratas",
-      "precio": "$35",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Un poni especial y otros cuentos para niños",
-      "precio": "$35",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Viaje al centro de la Tierra en comic",
-      "precio": "$20",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Yo sí puedo",
-      "precio": "$75",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Yo soy mejor",
-      "precio": "$75",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Yolo aventuras. Los impostores del espacio",
-      "precio": "$180",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Alicia en el país de las maravillas para colorear",
-      "precio": "$45",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Coloring: Árbol de la vida",
-      "precio": "$25",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Coloring: Dragones y seres mágicos",
-      "precio": "$25",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Dinosaurios juegos y color",
-      "precio": "$95",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Diosas, Inspiraciones creativas para colorear",
-      "precio": "$85",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Ejercicios mágicos, libro para colorear",
-      "precio": "$25",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "El principito actividades y color",
-      "precio": "$95",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Familia para colorear",
-      "precio": "$20",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Familia, hijitos de animales y dinosaurios - mándala",
-      "precio": "$45",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Frases célebres, Inspiraciones creativas para colorear",
-      "precio": "$85",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "La bella y la bestia - mándala",
-      "precio": "$45",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "La llamada de Cthulhu -mirlo",
-      "precio": "$45",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Libro para colorear",
-      "precio": "$15",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Libros de actividades y colorear 48 paginas",
-      "precio": "$25",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Mándala Colección Great Momentos",
-      "precio": "$20",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Mándala cuadrado Disney",
-      "precio": "$45",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Mándalas chicos para colorear",
-      "precio": "$35",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Mándalas de la naturaleza, Inspiraciones creativas para colorear",
-      "precio": "$85",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Mándalas grandes para colorear",
-      "precio": "$45",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Mándalas para acompañar el embarazo",
-      "precio": "$35",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Mándalas para colorear Veinte mil leguas de viaje submarino",
-      "precio": "$45",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Mándalas para despertar la consciencia",
-      "precio": "$35",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Mándalas relájate y medita",
-      "precio": "$85",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Mándalas simples",
-      "precio": "$15",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Sencillo para colorear",
-      "precio": "$10",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Unicornios pasatiempos y color",
-      "precio": "$95",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Viaje al centro de la Tierra en comic",
-      "precio": "$20",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Yo el gato - mirlo",
-      "precio": "$45",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "(Lo que queda) Entre nosotros",
-      "precio": "$220",
-      "genero": "romance"
-    },
-    {
-      "titulo": "¿A dónde van los poemas?",
-      "precio": "$140",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Antes de diciembre",
-      "precio": "$260",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Antes de ella (Boulevard 3)",
-      "precio": "$220",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Bitácora de un corazón (entero o roto)",
-      "precio": "$140",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Boulevard 2: Después de él",
-      "precio": "$220",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Boulevard: La versión de Flor",
-      "precio": "$220",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Cincuenta sombras de Grey",
-      "precio": "$230",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Comer, rezar, amar",
-      "precio": "$280",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Cuando no queden más estrellas que contar",
-      "precio": "$260",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Después de diciembre",
-      "precio": "$260",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Donde todo brilla",
-      "precio": "$280",
-      "genero": "romance"
-    },
-    {
-      "titulo": "El (des)amor que jamás viví",
-      "precio": "$180",
-      "genero": "romance"
-    },
-    {
-      "titulo": "El día que dejo de nevar en Alaska",
-      "precio": "$260",
-      "genero": "romance"
-    },
-    {
-      "titulo": "El mapa de los anhelos",
-      "precio": "$260",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Eternamente nosotros",
-      "precio": "$160",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Farsa de amor a la española",
-      "precio": "$280",
-      "genero": "romance"
     },
     {
       "titulo": "Jukilop: La verdadera historia",
@@ -2131,128 +521,18 @@
       "genero": "romance"
     },
     {
-      "titulo": "La hipótesis del amor",
-      "precio": "$260",
-      "genero": "romance"
-    },
-    {
-      "titulo": "La química del amor",
-      "precio": "$260",
-      "genero": "romance"
-    },
-    {
-      "titulo": "La teoría del amor",
-      "precio": "$260",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Latidos que no dije",
+      "titulo": "Destroza este diario a blanco y negro",
       "precio": "$180",
-      "genero": "romance"
+      "genero": "autoayuda"
     },
     {
-      "titulo": "Los siete maridos de Evelyn Hugo",
-      "precio": "$240",
-      "genero": "romance"
+      "titulo": "Destroza este diario. Ahora a todo color",
+      "precio": "$210",
+      "genero": "autoayuda"
     },
     {
-      "titulo": "Mi amor de wattpad",
-      "precio": "$230",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Mientras te olvido. Aprendiendo a vivir sin ti",
-      "precio": "$230",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Nadie Tiene Que Saberlo Excepto Tù",
-      "precio": "$180",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Nosotros en la luna",
-      "precio": "$280",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Nuestros recuerdos",
-      "precio": "$160",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Orgullo y prejuicio",
-      "precio": "$130",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Orgullo y prejuicio (pasta dura)",
-      "precio": "$320",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Pídeme lo que quieras",
-      "precio": "$260",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Poemas de amor",
-      "precio": "$25",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Poemas de amor que escribí mientras dormías",
-      "precio": "$160",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Poesías a la madre",
-      "precio": "$45",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Rojo, blanco y sangre azul",
-      "precio": "$280",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Romeo y Julieta",
-      "precio": "$55",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Romper el círculo",
-      "precio": "$240",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Te espero en el fin del mundo",
-      "precio": "$280",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Te quiero en todos los idiomas",
-      "precio": "$140",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Tres meses",
-      "precio": "$260",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Trilogía Diamante. Radiante. Vol. 2",
-      "precio": "$85",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Un beso bajo la lluvia",
-      "precio": "$280",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Uno siempre cambia al amor de su vida (por otro amor o por otra vida)",
-      "precio": "$200",
+      "titulo": "Fleur: Mi Desesperada Decisión.",
+      "precio": "$210",
       "genero": "romance"
     },
     {
@@ -2266,254 +546,19 @@
       "genero": "romance"
     },
     {
-      "titulo": "Volver a empezar",
-      "precio": "$240",
+      "titulo": "¿Y si quedamos como amigos?",
+      "precio": "$220",
       "genero": "romance"
     },
     {
-      "titulo": "100 recetas faciles y economicas para cocinar en 5 minutos",
-      "precio": "$25",
-      "genero": "salud"
-    },
-    {
-      "titulo": "Aún más bella con metodos naturales",
-      "precio": "$45",
-      "genero": "salud"
-    },
-    {
-      "titulo": "Bajar de peso y aliviar el dolor",
-      "precio": "$45",
-      "genero": "salud"
-    },
-    {
-      "titulo": "Ceviches, sopas y pescados",
-      "precio": "$45",
-      "genero": "salud"
-    },
-    {
-      "titulo": "Chocolate beneficios curativos, recetas de bebidas, dulces, pasteles, galletas y mas",
-      "precio": "$45",
-      "genero": "salud"
-    },
-    {
-      "titulo": "Cocina navideña",
-      "precio": "$25",
-      "genero": "salud"
-    },
-    {
-      "titulo": "Cocina vegetariana",
-      "precio": "$25",
-      "genero": "salud"
-    },
-    {
-      "titulo": "Cocinoraterapia",
-      "precio": "$45",
-      "genero": "salud"
-    },
-    {
-      "titulo": "Como curarse con remedios caseros",
-      "precio": "$25",
-      "genero": "salud"
-    },
-    {
-      "titulo": "Cómo prevenir la obesidad infantil",
-      "precio": "$45",
-      "genero": "salud"
-    },
-    {
-      "titulo": "Curación con amaranto, soya y ginseng",
-      "precio": "$45",
-      "genero": "salud"
-    },
-    {
-      "titulo": "El poder curativo de la chía y la linaza",
-      "precio": "$25",
-      "genero": "salud"
-    },
-    {
-      "titulo": "El poder curativo de la sábila",
-      "precio": "$25",
-      "genero": "salud"
-    },
-    {
-      "titulo": "El poder curativo del limón",
-      "precio": "$25",
-      "genero": "salud"
-    },
-    {
-      "titulo": "El poder de la aromaterapia",
-      "precio": "$25",
-      "genero": "salud"
-    },
-    {
-      "titulo": "El poder de la cebolla",
-      "precio": "$25",
-      "genero": "salud"
-    },
-    {
-      "titulo": "El poder de la papaya",
-      "precio": "$25",
-      "genero": "salud"
-    },
-    {
-      "titulo": "El poder del coco",
-      "precio": "$25",
-      "genero": "salud"
-    },
-    {
-      "titulo": "El poder del jengibre",
-      "precio": "$25",
-      "genero": "salud"
-    },
-    {
-      "titulo": "El poder del nopal",
-      "precio": "$25",
-      "genero": "salud"
-    },
-    {
-      "titulo": "Guía práctica de aromaterapia",
-      "precio": "$110",
-      "genero": "salud"
-    },
-    {
-      "titulo": "Guía práctica de Feng Shui",
-      "precio": "$110",
-      "genero": "salud"
-    },
-    {
-      "titulo": "Guía práctica de reflexologia",
-      "precio": "$110",
-      "genero": "salud"
-    },
-    {
-      "titulo": "Los beneficios curativos de la aromaterapia",
-      "precio": "$45",
-      "genero": "salud"
-    },
-    {
-      "titulo": "Medicina natural la dieta arcoiris",
-      "precio": "$25",
-      "genero": "salud"
-    },
-    {
-      "titulo": "Preguntas y respuestas lo que la mamá y el bebe deben comer más",
-      "precio": "$45",
-      "genero": "salud"
-    },
-    {
-      "titulo": "Recetario vegetariano mexicano",
-      "precio": "$45",
-      "genero": "salud"
-    },
-    {
-      "titulo": "Sabrosas recetas sin sal",
-      "precio": "$45",
-      "genero": "salud"
-    },
-    {
-      "titulo": "Todo sobre cannabis",
-      "precio": "$25",
-      "genero": "salud"
-    },
-    {
-      "titulo": "Todo sobre el embarazo",
-      "precio": "$45",
-      "genero": "salud"
-    },
-    {
-      "titulo": "Todo sobre la soya",
-      "precio": "$45",
-      "genero": "salud"
-    },
-    {
-      "titulo": "Yoga para principiantes",
-      "precio": "$45",
-      "genero": "salud"
-    },
-    {
-      "titulo": "1984",
-      "precio": "$220",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El murmullo de las abejas",
-      "precio": "$280",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "¿Y si quedamos como amigos?",
-      "precio": "$220",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "1984  - escolar",
-      "precio": "$45",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "A este lado del paraíso",
-      "precio": "$45",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "A orillas de un mismo recuerdo",
-      "precio": "$110",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "A través de la lluvia",
-      "precio": "$220",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "A través de mi ventana",
-      "precio": "$220",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "A través de ti",
-      "precio": "$220",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Adolf Hitler y el nazismo extraterrestre (La sociedad alienígena en la Alemania de Hitler)",
-      "precio": "$45",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Adulterio",
-      "precio": "$180",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Al final mueren los dos",
+      "titulo": "Emma y las otras señoras del narco",
       "precio": "$200",
-      "genero": "ficcion"
+      "genero": "biografia"
     },
     {
-      "titulo": "Almendra",
-      "precio": "$230",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Aristóteles y Dante descubren los secretos del universo",
-      "precio": "$240",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Aristóteles y Dante se sumergen en las aguas del mundo",
-      "precio": "$260",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Arséne Lupin: Caballero Ladrón",
-      "precio": "$190",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Brida",
+      "titulo": "El arte de amar",
       "precio": "$160",
-      "genero": "ficcion"
+      "genero": "autoayuda"
     },
     {
       "titulo": "Caballo de Troya 2",
@@ -2521,299 +566,34 @@
       "genero": "ficcion"
     },
     {
-      "titulo": "Canek",
-      "precio": "$55",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Cartas de amor a los muertos",
-      "precio": "$180",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Cazadores de sombras. Ciudad de ceniza. Vol. 2",
-      "precio": "$240",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Clemencia",
-      "precio": "$65",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Clemencia - escolar",
-      "precio": "$45",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Colección Hermann Hesse (7 volúmenes)",
-      "precio": "$190",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Culpa mía",
-      "precio": "$260",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Culpa nuestra",
-      "precio": "$260",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Culpa tuya",
-      "precio": "$260",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Cyborgs: La fusión de mente y maquina",
-      "precio": "$110",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Deja escapar a los lobos",
-      "precio": "$110",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Demian",
-      "precio": "$65",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Demian",
-      "precio": "$85",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Drácula - escolar",
-      "precio": "$45",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El Alquimista",
-      "precio": "$160",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El amigo robótico y otros cuentos de emociones y valores",
-      "precio": "$45",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El arte de ser nosotros",
-      "precio": "$280",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El chico que dibujaba constelaciones",
-      "precio": "$240",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El corazón de las tinieblas",
-      "precio": "$85",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El Corazón delator y otros cuentos",
-      "precio": "$85",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El cuervo y algunas narraciones extraordinarias",
-      "precio": "$110",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El extraño caso del Dr. Jekyll y Mr. Hyde",
-      "precio": "$190",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El fantasma de Canterville - escolar",
-      "precio": "$45",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El fantasma de la ópera",
-      "precio": "$110",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El gran Gatsby",
-      "precio": "$65",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El hombre invisible",
-      "precio": "$110",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El hombre invisible - ilustrado a color",
-      "precio": "$45",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El jinete sin cabeza y otros cuentos",
-      "precio": "$45",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El laberinto del Fauno",
-      "precio": "$180",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El libro de Enoch",
-      "precio": "$55",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El monstruo salido de internet y otros cuentos de misterio y terror",
-      "precio": "$45",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El niño con el pijama de rayas",
-      "precio": "$180",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El peregrino (Diario de un mago)",
-      "precio": "$160",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El periquillo sarmiento",
-      "precio": "$110",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El príncipe cruel",
-      "precio": "$280",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El psicoanalista",
-      "precio": "$260",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El retrato de Dorian Gray",
-      "precio": "$55",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Fleur: Mi Desesperada Decisión.",
+      "titulo": "Como ganar amigos e influir sobre las personas",
       "precio": "$210",
-      "genero": "ficcion"
+      "genero": "autoayuda"
     },
     {
-      "titulo": "Fortaleza digital",
-      "precio": "$260",
-      "genero": "ficcion"
+      "titulo": "Burlar al Diablo: Secretos Desde la Cripta",
+      "precio": "$190",
+      "genero": "autoayuda"
     },
     {
-      "titulo": "Frankenstein",
-      "precio": "$25",
-      "genero": "ficcion"
+      "titulo": "El sutil arte de que te importe un carajo: Un enfoque disruptivo para vivir una buena vida",
+      "precio": "$210",
+      "genero": "autoayuda"
     },
     {
-      "titulo": "Frankenstein",
-      "precio": "$85",
-      "genero": "ficcion"
+      "titulo": "El visitante",
+      "precio": "$280",
+      "genero": "terror"
     },
     {
-      "titulo": "Frankenstein",
-      "precio": "$110",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Frankenstein - escolar",
-      "precio": "$45",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Frankenstein. Guía De Estudio",
-      "precio": "$20",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Harry Potter y el cáliz de fuego",
-      "precio": "$290",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Harry Potter y el prisionero de Azkaban",
-      "precio": "$260",
-      "genero": "ficcion"
+      "titulo": "Piense y hágase rico",
+      "precio": "$210",
+      "genero": "autoayuda"
     },
     {
       "titulo": "Hasta que nos quedemos sin estrellas",
       "precio": "$280",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "HeartsTopper",
-      "precio": "$210",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Invisible (Edición ilustrada)",
-      "precio": "$230",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Juventud en éxtasis",
-      "precio": "$160",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "La biblioteca de la media noche",
-      "precio": "$240",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "La casa de los espíritus",
-      "precio": "$220",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "la celestina",
-      "precio": "$65",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "La guerra de los mundos - (colección los niños y los clásicos)",
-      "precio": "$45",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "La guerra de los mundos - ilustrado",
-      "precio": "$45",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "La guerra de los mundos - versión abreviada",
-      "precio": "$55",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "La leyenda del jinete sin cabeza - ilustrado a color",
-      "precio": "$45",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "La metamorfosis",
-      "precio": "$45",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "La muerte en Venecia",
-      "precio": "$85",
-      "genero": "ficcion"
+      "genero": "romance"
     },
     {
       "titulo": "La sombra del viento",
@@ -2821,1354 +601,355 @@
       "genero": "ficcion"
     },
     {
-      "titulo": "Las luces de febrero",
-      "precio": "$240",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Leyendas de las calles de México",
-      "precio": "$55",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Los demonios del Edén",
-      "precio": "$210",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Los juegos del hambre: Baladas de pájaros cantores y serpientes",
-      "precio": "$280",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Los ojos de mi princesa",
+      "titulo": "Muchos cuerpos, una misma alma",
       "precio": "$220",
-      "genero": "ficcion"
+      "genero": "autoayuda"
     },
     {
-      "titulo": "Los ojos de mi princesa 2",
-      "precio": "$220",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Navidad en las montañas",
-      "precio": "$55",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Once minutos",
-      "precio": "$180",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Opal: ¿Y el amor viajara a la velocidad de la luz?",
-      "precio": "$110",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Punk 57",
+      "titulo": "Volver al amor",
       "precio": "$230",
-      "genero": "ficcion"
+      "genero": "autoayuda"
     },
     {
-      "titulo": "Relatos",
-      "precio": "$120",
-      "genero": "ficcion"
+      "titulo": "Después",
+      "precio": "$190",
+      "genero": "terror"
     },
     {
-      "titulo": "Sangre de campeón",
-      "precio": "$210",
-      "genero": "ficcion"
+      "titulo": "Los secretos de la mente millonaria: Cómo dominar el juego interior de la riqueza",
+      "precio": "$190",
+      "genero": "autoayuda"
     },
     {
-      "titulo": "Shadows (Precuela Saga LUX)",
-      "precio": "$110",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Sheccid. Cuando el amor duele",
-      "precio": "$220",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Sí, si es contigo",
-      "precio": "$230",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Trenza del Mar Esmeralda",
-      "precio": "$260",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Tres promesas",
-      "precio": "$210",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Un mexicano mas",
-      "precio": "$65",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Un tiburón enamorado y otros cuentos de animales",
-      "precio": "$65",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Ángeles espíritus de luz",
-      "precio": "$45",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Arcángeles y los  rayos de luz (Invocaciones y rituales)",
-      "precio": "$45",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Chistes para contar por Facebook",
-      "precio": "$25",
-      "genero": "otros"
-    },
-    {
-      "titulo": "De la mano con los ángeles",
-      "precio": "$45",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Despedidas de soltera y baby showers",
-      "precio": "$45",
-      "genero": "otros"
-    },
-    {
-      "titulo": "El poder de los Mantras",
-      "precio": "$45",
-      "genero": "otros"
-    },
-    {
-      "titulo": "El que ríe al último… Relatos de humor",
-      "precio": "$65",
-      "genero": "otros"
-    },
-    {
-      "titulo": "El significado de los sueños",
-      "precio": "$25",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Guía completa para fabricar productos caseros, económicos y mas ecológicos",
-      "precio": "$25",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Interpretación de los sueños",
-      "precio": "$45",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Las tres fuerzas del ser",
-      "precio": "$25",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Los ángeles",
-      "precio": "$35",
-      "genero": "otros"
-    },
-    {
-      "titulo": "No más osos. Mejor controla a tus papás",
-      "precio": "$35",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Nombres especiales para tu bebe",
-      "precio": "$45",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Qué dicen tus sueños",
-      "precio": "$45",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Reparaciones caceras",
-      "precio": "$45",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Rezos, cantos y oraciones",
-      "precio": "$25",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Teatro joven de México",
-      "precio": "$45",
-      "genero": "otros"
-    },
-    {
-      "titulo": "The lost canvas vol. 14",
-      "precio": "$45",
-      "genero": "otros"
-    },
-    {
-      "titulo": "The lost canvas vol. 21",
-      "precio": "$45",
-      "genero": "otros"
-    },
-    {
-      "titulo": "The lost canvas vol. 7",
-      "precio": "$45",
-      "genero": "otros"
-    },
-    {
-      "titulo": "The lost canvas vol. 9",
-      "precio": "$45",
-      "genero": "otros"
-    },
-    {
-      "titulo": "A pesar de ti",
-      "precio": "$240",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "HeartsTopper 2",
-      "precio": "$210",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "HeartsTopper 3",
-      "precio": "$210",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "HeartsTopper 4",
-      "precio": "$210",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Yolo aventuras. El misterio del amazonas",
-      "precio": "$180",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Wicca Libro completo de la brujería",
-      "precio": "$260",
-      "genero": "otros"
-    },
-    {
-      "titulo": "El corazón del rey",
+      "titulo": "Nosotros en la luna",
       "precio": "$280",
-      "genero": "ficcion"
+      "genero": "romance"
     },
     {
-      "titulo": "El secreto, el poder",
+      "titulo": "Farsa de amor a la española",
+      "precio": "$280",
+      "genero": "romance"
+    },
+    {
+      "titulo": "El secreto",
       "precio": "$160",
       "genero": "autoayuda"
     },
     {
-      "titulo": "Este horrible deseo de amarte",
-      "precio": "$140",
-      "genero": "romance"
+      "titulo": "El monje que vendió su ferrary",
+      "precio": "$160",
+      "genero": "autoayuda"
     },
     {
-      "titulo": "Yolo aventuras. La mansión de las pesadillas",
+      "titulo": "La sanación de las 5 heridas",
+      "precio": "$160",
+      "genero": "autoayuda"
+    },
+    {
+      "titulo": "Mujercitas",
       "precio": "$180",
-      "genero": "infantil"
+      "genero": "clasicos"
     },
     {
-      "titulo": "El último vuelo",
-      "precio": "$90",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Silencio Poesía",
-      "precio": "$90",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Las 7 claves delexito de disney",
-      "precio": "$160",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "(sobre)viviendo con un corazón roto",
-      "precio": "160",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Contigo, sin ti y después de ti",
-      "precio": "140",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Juguemos a leer",
-      "precio": "$290",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "No te enganches. Todo pasa",
-      "precio": "$210",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Una buena forma para decir adiós",
+      "titulo": "Cumbres Borrascosas",
       "precio": "$180",
-      "genero": "autoayuda"
+      "genero": "clasicos"
     },
     {
-      "titulo": "¡Ya supéralo!",
-      "precio": "$210",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Imaginaria",
+      "titulo": "Historias macabras (I) (Obras maestras I)",
       "precio": "$180",
-      "genero": "terror"
+      "genero": "clasicos"
     },
     {
-      "titulo": "Un monstruo viene a verme",
-      "precio": "$160",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Por el placer de vivir",
-      "precio": "$240",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Las 5 heridas que impiden ser uno mismo",
-      "precio": "$160",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "30 Sunsets para enamorarte",
-      "precio": "$210",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Una vida con propósito",
-      "precio": "$240",
-      "genero": "otros"
-    },
-    {
-      "titulo": "El jardín de las mariposas",
-      "precio": "$220",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Capitalismo solidario",
-      "precio": "$160",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Tú, yo y un tal vez",
-      "precio": "$260",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Memoria de mis putas tristes",
-      "precio": "$120",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Pon al cielo a trabajar",
-      "precio": "$140",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Diario de Acenix. Un gato en el cole",
-      "precio": "$160",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Enamorados o esclavizados",
-      "precio": "$190",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Atrévete a ser quien eres (aunque no gustes)",
-      "precio": "$190",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Maravillosamente imperfecto, escandalosamente feliz",
-      "precio": "$190",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "La razón de estar contigo",
-      "precio": "$200",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Amores altamente peligrosos",
-      "precio": "$190",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "La afectividad masculina",
-      "precio": "$190",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Cien años de soledad",
-      "precio": "$220",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Yo decido",
+      "titulo": "El ciclo onírico (II) (Obras maestras II)",
       "precio": "$180",
-      "genero": "autoayuda"
+      "genero": "clasicos"
     },
     {
-      "titulo": "Juan Salvador Gaviota",
+      "titulo": "Los Mitos de Cthulhu I (Obras maestras III)",
+      "precio": "$190",
+      "genero": "clasicos"
+    },
+    {
+      "titulo": "El conde de Montecristo",
       "precio": "$180",
-      "genero": "autoayuda"
+      "genero": "clasicos"
     },
     {
-      "titulo": "De tanto amarte, me olvidé de mi",
-      "precio": "$190",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Mas fuerte que la adversidad",
-      "precio": "$190",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "El mundo de Sofía",
-      "precio": "240",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Querido yo. Vamos a estar bien",
-      "precio": "$220",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Leyendas de coahuila",
-      "precio": "$25",
-      "genero": "terror"
-    },
-    {
-      "titulo": "Compendio de leyendas",
-      "precio": "$25",
-      "genero": "terror"
-    },
-    {
-      "titulo": "Compendio de leyendas de la epoca de la colonia",
-      "precio": "$25",
-      "genero": "terror"
-    },
-    {
-      "titulo": "Leyendas prehispanicas",
-      "precio": "$25",
-      "genero": "terror"
-    },
-    {
-      "titulo": "Las historias mas aterradoras de fantasmas",
-      "precio": "$25",
-      "genero": "terror"
-    },
-    {
-      "titulo": "Metodo completo de guitarra acustico",
-      "precio": "$25",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Mandala por JATZ",
-      "precio": "$25",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Chistes y mucho mas",
-      "precio": "$25",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Dinosaurios, libro de pasatiempos vol 1",
-      "precio": "25",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Dinosaurios, libro de pasatiempos vol 2",
-      "precio": "$25",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Mini libro para iluminar",
-      "precio": "$5",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Sopas de letras",
-      "precio": "$30",
-      "genero": "pasatiempos"
-    },
-    {
-      "titulo": "Mandalas para colorear Ej Kids",
-      "precio": "$35",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Mandalas de navidad",
-      "precio": "$35",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Sudoku mas",
-      "precio": "$25",
-      "genero": "pasatiempos"
-    },
-    {
-      "titulo": "Pixel Art",
-      "precio": "$35",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Mega sopas de letras",
-      "precio": "$30",
-      "genero": "pasatiempos"
-    },
-    {
-      "titulo": "Mi primer libro de… (varios temas)",
-      "precio": "$55",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Magic Coloring book (libro magico)",
-      "precio": "$25",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Maxi Sopas",
-      "precio": "$40",
-      "genero": "pasatiempos"
-    },
-    {
-      "titulo": "Super cruzadas",
-      "precio": "$40",
-      "genero": "pasatiempos"
-    },
-    {
-      "titulo": "Activados piratas",
-      "precio": "$25",
-      "genero": "pasatiempos"
-    },
-    {
-      "titulo": "Sabiondos. Deportes",
-      "precio": "$25",
-      "genero": "pasatiempos"
-    },
-    {
-      "titulo": "Chakras mandalas",
-      "precio": "$35",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Yoga mandalas",
-      "precio": "$35",
-      "genero": "colorear"
-    },
-    {
-      "titulo": "Don Quijote de la mancha (pasta dura)",
+      "titulo": "El conde de Montecristo (pasta dura)",
       "precio": "$320",
       "genero": "clasicos"
     },
     {
-      "titulo": "Mujercitas (pasta dura)",
-      "precio": "$240",
+      "titulo": "Adolf Hitler: Más allá de las sombras",
+      "precio": "$320",
+      "genero": "biografia"
+    },
+    {
+      "titulo": "Obra selecta: Julio Verne",
+      "precio": "$320",
       "genero": "clasicos"
     },
     {
-      "titulo": "Las aventuras de Alicia en el país de las maravillas (pasta dura)",
-      "precio": "$140",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Arséne Lupin: Contra Herlock Sholmés",
-      "precio": "$190",
+      "titulo": "Moby Dick",
+      "precio": "$320",
       "genero": "clasicos"
     },
     {
-      "titulo": "El Mago de oz (pasta dura)",
-      "precio": "$190",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Peter pan (pasta dura)",
-      "precio": "$190",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Desde el más allá (edición bolsillo pasta dura)",
-      "precio": "$85",
-      "genero": "terror"
-    },
-    {
-      "titulo": "La sombra sobre Innsmouthz(edición bolsillo pasta dura)",
-      "precio": "$85",
-      "genero": "terror"
-    },
-    {
-      "titulo": "El cuervo y algunas narraciones extraordinarias (edicón bolsillo pasta dura)",
-      "precio": "$85",
-      "genero": "terror"
-    },
-    {
-      "titulo": "El curioso caso de Benjamin Button y otros relatos",
-      "precio": "$95",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El misterio del cementerio (edición bolsillo pasta dura)",
-      "precio": "$85",
-      "genero": "terror"
-    },
-    {
-      "titulo": "1984 (novela edicón integra)(azul)",
-      "precio": "$80",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Diálogos",
-      "precio": "$180",
+      "titulo": "Un mundo feliz",
+      "precio": "$210",
       "genero": "clasicos"
     },
     {
-      "titulo": "Bienestar",
-      "precio": "$90",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Guía diaria de tus ángeles",
-      "precio": "$180",
-      "genero": "otros"
-    },
-    {
-      "titulo": "El maravilloso mago de oz",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Aventuras en el río Amazonas",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Odisea en Marte, Armagedón 2418 d.c.",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "El contagio de la muerte violeta",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "La máquina del tiempo. El valle de las arañas",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Las aventuras de don Quijote y Sancho Panza",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Ingles para primaria",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Resuelve tu vida ¡hoy!",
-      "precio": "$45",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Kamasutra Gay",
-      "precio": "$45",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Pensar bien, sentirse bien",
+      "titulo": "El Principito ingles esp(pasta dura)",
       "precio": "$200",
-      "genero": "autoayuda"
+      "genero": "clasicos"
     },
     {
-      "titulo": "Crepusculo",
-      "precio": "$260",
-      "genero": "romance"
-    },
-    {
-      "titulo": "A todos los chicos de los que me enamore",
-      "precio": "$260",
-      "genero": "romance"
-    },
-    {
-      "titulo": "¡Tú, el más chingón!",
-      "precio": "$45",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "El instituto",
-      "precio": "$280",
-      "genero": "terror"
-    },
-    {
-      "titulo": "el castillo en el aire",
-      "precio": "$220",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Ladrona de libros",
-      "precio": "$220",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Trilogía de Fuego (por separado)",
-      "precio": "$260",
-      "genero": "romance"
-    },
-    {
-      "titulo": "After 1",
-      "precio": "$260",
-      "genero": "romance"
-    },
-    {
-      "titulo": "After 2",
-      "precio": "$260",
-      "genero": "romance"
-    },
-    {
-      "titulo": "After 3",
-      "precio": "$260",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Las señoras del Narco",
-      "precio": "$240",
-      "genero": "biografia"
-    },
-    {
-      "titulo": "HeartsTopper 5",
+      "titulo": "El Principito ingles esp(delux )",
       "precio": "$210",
-      "genero": "romance"
+      "genero": "clasicos"
     },
     {
-      "titulo": "Yo antes de ti",
-      "precio": "$280",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Después de ti",
-      "precio": "$280",
-      "genero": "romance"
-    },
-    {
-      "titulo": "El parque de bolas",
-      "precio": "$220",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "El cuarto armario",
-      "precio": "$220",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Liderazgo con propósito",
+      "titulo": "El Principito frances esp(delux)",
       "precio": "$210",
-      "genero": "autoayuda"
+      "genero": "clasicos"
     },
     {
-      "titulo": "Lo que nunca quise escribir",
-      "precio": "$180",
-      "genero": "romance"
+      "titulo": "1984 (pasta dura)",
+      "precio": "$220",
+      "genero": "clasicos"
     },
     {
-      "titulo": "Cincuenta sombras de Gregorio",
+      "titulo": "La guerra de los mundos (pasta dura)",
       "precio": "$190",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "winnie pooh (pasta dura)",
-      "precio": "$140",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "EL libro de la selva (pasta dura)",
-      "precio": "$180",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "A través del espejo y lo que Alicia encontró allí (pasta dura)",
-      "precio": "$140",
       "genero": "clasicos"
     },
     {
-      "titulo": "El capital",
-      "precio": "$85",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Corazón diario de un niño",
-      "precio": "$110",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Orgullo y prejuicio (pasta naranja)",
-      "precio": "$120",
+      "titulo": "Arséne Lupin: Caballero Ladrón",
+      "precio": "$190",
       "genero": "clasicos"
     },
     {
-      "titulo": "Cumbres Borrascosas (pasta rosa)",
-      "precio": "$110",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Gestapo",
-      "precio": "$65",
-      "genero": "biografia"
-    },
-    {
-      "titulo": "La fe en la Oración",
-      "precio": "$65",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Don quijote de la mancha, escolar 'ilustrados'",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Los brujos y hechiceros de Hitler",
-      "precio": "$45",
-      "genero": "biografia"
-    },
-    {
-      "titulo": "El fantasma de Canterville para niños",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Cuentos terroríficos",
-      "precio": "$45",
-      "genero": "terror"
-    },
-    {
-      "titulo": "La palabra es tu varita mágica",
-      "precio": "$75",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "El juego de la vida y cómo jugarlo",
-      "precio": "$75",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Chamanismo",
-      "precio": "$90",
-      "genero": "otros"
-    },
-    {
-      "titulo": "El Dhammapada",
-      "precio": "$90",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Aura",
-      "precio": "$90",
-      "genero": "otros"
-    },
-    {
-      "titulo": "El gran arcano del ocultismo revelado",
-      "precio": "$90",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Los juegos del hambre: sinsajo",
-      "precio": "$280",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Los juegos del hambre: en llamas",
-      "precio": "$280",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Los juegos del hambre",
-      "precio": "$280",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El silmarillion",
-      "precio": "$240",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Sanando Heridas, Mientras despido tus recuerdos",
-      "precio": "$210",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Mientras Respire",
-      "precio": "$210",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Mil soles espléndidos",
-      "precio": "$240",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Sanando Heridas, Mientras rompo en llanto",
-      "precio": "$210",
-      "genero": "romance"
-    },
-    {
-      "titulo": "P.D. Todavía te quiero",
-      "precio": "$260",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Para siempre, Lara Jean",
-      "precio": "$260",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Harry Potter y la piedra filosofal",
-      "precio": "$240",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Harry Potter y la camara secreta",
-      "precio": "$240",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Harry Potter y la orden del fenix",
+      "titulo": "La divina comedia (Pasta dura)",
       "precio": "$340",
-      "genero": "ficcion"
+      "genero": "clasicos"
     },
     {
-      "titulo": "Harry Potter y el misterio del principe",
-      "precio": "$290",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El negociador",
-      "precio": "$210",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "El rinoceronte 1",
-      "precio": "$160",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Mi viaje sin ti",
-      "precio": "$210",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Cartas que no llegaron",
+      "titulo": "La divina comedia (3 volúmenes)",
       "precio": "$240",
-      "genero": "autoayuda"
+      "genero": "clasicos"
     },
     {
-      "titulo": "Wicca para principiantes",
+      "titulo": "Colmillo Blanco",
       "precio": "$220",
-      "genero": "otros"
+      "genero": "clasicos"
     },
-    {
-      "titulo": "El hombre en busca de sentido",
-      "precio": "$190",
+     {
+      "titulo": "Poesía prehispánica: Flor y canto",
+      "precio": "$220",
       "genero": "biografia"
     },
     {
-      "titulo": "La alberca de pelotas",
-      "precio": "$220",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Harry Potte y el legado maldito",
-      "precio": "$260",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El líder que no tenía cargo",
-      "precio": "$210",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Si yo fuera un…(Perro, Gato, Lagarto o Pajaro)",
-      "precio": "$75",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Sopa de letras mas de 100",
-      "precio": "$50",
-      "genero": "pasatiempos"
-    },
-    {
-      "titulo": "Sopa de letras 320 pag",
-      "precio": "$100",
-      "genero": "pasatiempos"
-    },
-    {
-      "titulo": "Mini historias disney",
-      "precio": "$15",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Nuevos amigos",
-      "precio": "$70",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Resveratrol. El elixir de la juventud",
-      "precio": "$25",
-      "genero": "salud"
-    },
-    {
-      "titulo": "Hazañas y  leyendas de los mundiales",
-      "precio": "$30",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Couloring book",
-      "precio": "$38",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Las avebturas de pinocho",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Rebelión en la granja",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Lazarillo de Tormes",
-      "precio": "$45",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Dibujo fácil de comic",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "La cenicienta y otros cuentos",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Chistes, magia y juegos",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Carcajadas para niños",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Comprensión lectora 3° de primaria",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Comprensión lectora 2° de primaria",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Comprensión lectora 1° de primaria",
-      "precio": "$45",
-      "genero": "educacion"
-    },
-    {
-      "titulo": "Princesas, hadas y brujas",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Cuentos de fantasmas, Antología",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Cuentos de terror para niños",
-      "precio": "$45",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "En las montañas de la locura y otros relatos",
-      "precio": "$95",
-      "genero": "terror"
-    },
-    {
-      "titulo": "Los Mitos de Cthulhu II (Obras maestras III)",
+      "titulo": "El extraño caso del Dr. Jekyll y Mr. Hyde",
       "precio": "$190",
-      "genero": "terror"
+      "genero": "clasicos"
     },
     {
-      "titulo": "La divina comedia - Abreviada",
+      "titulo": "Metafísica",
+      "precio": "$110",
+      "genero": "otros"
+    },
+    {
+      "titulo": "Así hablaba Zaratustra",
+      "precio": "$110",
+      "genero": "otros"
+    },
+    {
+      "titulo": "El fantasma de la ópera",
       "precio": "$110",
       "genero": "clasicos"
     },
     {
-      "titulo": "El principito - edición integra",
+      "titulo": "El diario de Ana Frank",
+      "precio": "$85",
+      "genero": "clasicos"
+    },
+    {
+      "titulo": "El arte de la guerra",
       "precio": "$55",
       "genero": "clasicos"
     },
     {
-      "titulo": "La interpretación de los sueños",
-      "precio": "$110",
+      "titulo": "El Anticristo",
+      "precio": "$55",
+      "genero": "otros"
+    },
+    {
+      "titulo": "La genealogía de la moral",
+      "precio": "$55",
+      "genero": "otros"
+    },
+    {
+      "titulo": "Ecce homo cómo se llega a hacer lo que es",
+      "precio": "$55",
+      "genero": "otros"
+    },
+    {
+      "titulo": "Filosofía en el tocador",
+      "precio": "$65",
+      "genero": "otros"
+    },
+    {
+      "titulo": "Lazarillo de Tormes",
+      "precio": "$55",
+      "genero": "otros"
+    },
+    {
+      "titulo": "Popol vuh",
+      "precio": "$65",
+      "genero": "otros"
+    },
+    {
+      "titulo": "El retrato de Dorian Gray",
+      "precio": "$45",
+      "genero": "clasicos"
+    },
+    {
+      "titulo": "Alicia en el país de las maravillas",
+      "precio": "$55",
+      "genero": "infantil"
+    },
+    {
+      "titulo": "El Principito Francés-español",
+      "precio": "$65",
+      "genero": "clasicos"
+    },
+    {
+      "titulo": "Un mundo feliz (simple)",
+      "precio": "$65",
+      "genero": "clasicos"
+    },
+    {
+      "titulo": "Che guevara dedicatoria",
+      "precio": "$55",
       "genero": "biografia"
     },
     {
-      "titulo": "Meditaciones (marco aurelio)",
-      "precio": "$75",
-      "genero": "biografia"
+      "titulo": "La muerte alada y otros cuentos de terror",
+      "precio": "$95",
+      "genero": "terror"
     },
     {
-      "titulo": "El ingenioso Hidalgo, Don quijote de la mancha",
+      "titulo": "El horror de Dunwich y más clásicos de Lovecraft",
+      "precio": "$95",
+      "genero": "terror"
+    },
+    {
+      "titulo": "El que susurra en la oscuridad y otros relatos breves de terror",
+      "precio": "$95",
+      "genero": "terror"
+    },
+    {
+      "titulo": "El caso de Charles Dexter Ward",
+      "precio": "$95",
+      "genero": "terror"
+    },
+    {
+      "titulo": "Cuentos Macabros",
+      "precio": "$95",
+      "genero": "terror"
+    },
+    {
+      "titulo": "Desde el más allá y otros cuentos",
+      "precio": "$95",
+      "genero": "terror"
+    },
+    {
+      "titulo": "La historia del Necronomicón y otros cuentos prohibidos",
+      "precio": "$95",
+      "genero": "terror"
+    },
+    {
+      "titulo": "Los sueños en la casa de la bruja y otros cuentos de terror",
+      "precio": "$95",
+      "genero": "terror"
+    },
+    {
+      "titulo": "El lazo de medusa y otros relatos de terror",
+      "precio": "$95",
+      "genero": "terror"
+    },
+    {
+      "titulo": "Obras maestras: Marqués de Sade",
       "precio": "$190",
       "genero": "clasicos"
     },
     {
-      "titulo": "Mi lucha, Adolf Hitler",
-      "precio": "$160",
-      "genero": "biografia"
-    },
-    {
-      "titulo": "Crimen y castigo",
-      "precio": "$140",
+      "titulo": "Obras maestras: Hermann Hesse",
+      "precio": "$190",
       "genero": "clasicos"
     },
     {
-      "titulo": "El arte de la Guerra (edición bolsillo)",
-      "precio": "$65",
+      "titulo": "Los 120 días de Sodoma",
+      "precio": "$190",
       "genero": "clasicos"
     },
     {
-      "titulo": "Orgullo y prejuicio (edición bolsillo)",
-      "precio": "$160",
+      "titulo": "Colección Hermann Hesse (7 volúmenes)",
+      "precio": "$190",
       "genero": "clasicos"
     },
     {
-      "titulo": "El diario de Ana Frank (edición bolsillo)",
-      "precio": "$95",
-      "genero": "clasicos"
-    },
-    {
-      "titulo": "Los 72 espíritus de la cábala, Una visión de la ciencia de los espíritus",
-      "precio": "$65",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Ángeles y diosas",
-      "precio": "$150",
-      "genero": "otros"
-    },
-    {
-      "titulo": "El libro de la brujería práctica",
-      "precio": "$170",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Reencarnacón",
-      "precio": "$85",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Palabras de Sabiduría",
-      "precio": "$85",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Encuentros Alienigenas",
-      "precio": "$80",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Signos y símbolos sagrados",
-      "precio": "$145",
-      "genero": "otros"
-    },
-    {
-      "titulo": "Libro mueve la boca",
-      "precio": "$135",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Creaciones con magia y brillo",
-      "precio": "$85",
+      "titulo": "Coloring: Árbol de la vida",
+      "precio": "$25",
       "genero": "colorear"
     },
     {
-      "titulo": "David Copperfield - cometa",
+      "titulo": "Coloring: Dragones y seres mágicos",
       "precio": "$25",
-      "genero": "infantil"
+      "genero": "colorear"
     },
     {
-      "titulo": "Los caballeros del Rey Arturo - cometa",
-      "precio": "$25",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Los tres mosqueteros - cometa",
-      "precio": "$25",
-      "genero": "infantil"
-    },
-    {
-      "titulo": "Power colorear",
+      "titulo": "Mandalas para acompañar el embarazo",
       "precio": "$35",
       "genero": "colorear"
     },
     {
-      "titulo": "Espirogiro, libro para dibujar y colorear",
-      "precio": "$85",
+      "titulo": "Mandalas para despertar la consciencia",
+      "precio": "$35",
       "genero": "colorear"
     },
     {
-      "titulo": "¡Gracias!",
-      "precio": "$280",
-      "genero": "biografia"
+      "titulo": "Familia para colorear",
+      "precio": "$20",
+      "genero": "colorear"
     },
     {
-      "titulo": "Perdonar para sanar",
-      "precio": "$180",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Me quiero, te quiero",
-      "precio": "$190",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Te amo… pero soy feliz sin ti",
-      "precio": "$180",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Todo lo que somos",
-      "precio": "$200",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Tu hijo, tu espejo",
-      "precio": "$160",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Cuando mamá lastima",
-      "precio": "$180",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Cuando papá lastima",
-      "precio": "$180",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Enséñale a tu ansiedad quien manda",
-      "precio": "$210",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "El arte de no amargarse la vida",
-      "precio": "$210",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "La fragilidad de un corazón bajo la lluvia",
-      "precio": "$260",
-      "genero": "romance"
-    },
-    {
-      "titulo": "50 cápsulas de amor propio",
-      "precio": "$210",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Hija de humo y huesos",
-      "precio": "$280",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "El secreto más grande",
-      "precio": "$190",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "El juego del dinero",
-      "precio": "$220",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Dímelo cantando",
-      "precio": "$260",
-      "genero": "romance"
-    },
-    {
-      "titulo": "Cadáver exquisito",
-      "precio": "$210",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Valle de la calma",
-      "precio": "$210",
-      "genero": "terror"
-    },
-    {
-      "titulo": "Dopamina",
-      "precio": "$260",
-      "genero": "autoayuda"
-    },
-    {
-      "titulo": "Veronika decide morir",
-      "precio": "$180",
-      "genero": "romance"
-    },
-    {
-      "titulo": "La teoría de Kim",
-      "precio": "$280",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Azteca",
-      "precio": "$280",
-      "genero": "ficcion"
-    },
-    {
-      "titulo": "Diario 1 de Gravity Falls",
-      "precio": "$210",
+      "titulo": "El principito en comic",
+      "precio": "$20",
       "genero": "infantil"
     },
     {
-      "titulo": "Diario 2 de Gravity Falls",
-      "precio": "$210",
+      "titulo": "Diario de Ana Frank en comic",
+      "precio": "$20",
       "genero": "infantil"
     },
     {
-      "titulo": "Diario 3 de Gravity Falls",
-      "precio": "$210",
+      "titulo": "Alicia en el país de las maravillas comic",
+      "precio": "$20",
       "genero": "infantil"
     },
     {
-      "titulo": "El castillo ambulante",
-      "precio": "$220",
-      "genero": "ficcion"
+      "titulo": "Demian en comic",
+      "precio": "$20",
+      "genero": "infantil"
     },
     {
-      "titulo": "La casa de los mil pasillos",
-      "precio": "$220",
-      "genero": "ficcion"
-    }
+      "titulo": "Viaje al centro de la Tierra en comic",
+      "precio": "$20",
+      "genero": "infantil"
+    },
+    
   ] 
 }
