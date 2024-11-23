@@ -1,6 +1,6 @@
 {
   "generos": [
-      {
+    {
       "titulo": "Diario de Greg Vol. 1: Un renacuajo.",
       "precio": "$160",
       "genero": "infantil"
@@ -949,7 +949,7 @@
       "titulo": "Viaje al centro de la Tierra en comic",
       "precio": "$20",
       "genero": "infantil"
-    },
+    }
     
   ] 
 }
