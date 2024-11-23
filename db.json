@@ -2,497 +2,497 @@
   "generos": [
       {
       "titulo": "Diario de Greg Vol. 1: Un renacuajo.",
-      "precio": $160,
+      "precio": "$160",
       "genero": "infantil"
     },
     {
       "titulo": "Diario de Greg Vol. 2: La ley de Rodrick.",
-      "precio": $160,
+      "precio": "$160",
       "genero": "infantil"
     },
     {
       "titulo": "Diario de Greg Vol. 3: ¡Esto es el colmo!.",
-      "precio": $160,
+      "precio": "$160",
       "genero": "infantil"
     },
     {
       "titulo": "Diario de Greg Vol. 4: Días de perros.",
-      "precio": $160,
+      "precio": "$160",
       "genero": "infantil"
     },
     {
       "titulo": "Diario de Greg Vol. 5: La Cruda Realidad.",
-      "precio": $160,
+      "precio": "$160",
       "genero": "infantil"
     },
     {
       "titulo": "Diario de Greg Vol. 6: ¡Atrapados en la nieve!",
-      "precio": $160,
+      "precio": "$160",
       "genero": "infantil"
     },
     {
       "titulo": "Diario de Greg Vol. 7: Buscando Plan…",
-      "precio": $160,
+      "precio": "$160",
       "genero": "infantil"
     },
     {
       "titulo": "Diario de Greg Vol. 8: Mala suerte.",
-      "precio": $160,
+      "precio": "$160",
       "genero": "infantil"
     },
     {
       "titulo": "Las 48 leyes del poder",
-      "precio": $340,
+      "precio": "$340",
       "genero": "autoayuda"
     },
     {
       "titulo": "El mapa de los anhelos",
-      "precio": $260,
+      "precio": "$260",
       "genero": "romance"
     },
     {
       "titulo": "Romper el círculo",
-      "precio": $240,
+      "precio": "$240",
       "genero": "romance"
     },
     {
       "titulo": "Volver a empezar",
-      "precio": $240,
+      "precio": "$240",
       "genero": "romance"
     },
     {
       "titulo": "La química del amor",
-      "precio": $260,
+      "precio": "$260",
       "genero": "romance"
     },
     {
       "titulo": "La hipótesis del amor",
-      "precio": $260,
+      "precio": "$260",
       "genero": "romance"
     },
     {
       "titulo": "La teoría del amor",
-      "precio": $260,
+      "precio": "$260",
       "genero": "romance"
     },
     {
       "titulo": "Sobrenatural",
-      "precio": $240,
+      "precio": "$240",
       "genero": "autoayuda"
     },
     {
       "titulo": "El placebo eres tu",
-      "precio": $240,
+      "precio": "$240",
       "genero": "autoayuda"
     },
     {
       "titulo": "Deja de ser tu",
-      "precio": $240,
+      "precio": "$240",
       "genero": "autoayuda"
     },
     {
       "titulo": "Los ojos de mi princesa",
-      "precio": $220,
+      "precio": "$220",
       "genero": "ficcion"
     },
     {
       "titulo": "Los ojos de mi princesa 2",
-      "precio": $220,
+      "precio": "$220",
       "genero": "ficcion"
     },
     {
       "titulo": "Sheccid. Cuando el amor duele",
-      "precio": $220,
+      "precio": "$220",
       "genero": "ficcion"
     },
     {
       "titulo": "Este dolor no es mío. Identifica y resuelve los traumas familiares heredados",
-      "precio": $230,
+      "precio": "$230",
       "genero": "autoayuda"
     },
     {
       "titulo": "Arregla tu desmadre",
-      "precio": $210,
+      "precio": "$210",
       "genero": "autoayuda"
     },
     {
       "titulo": "LA VIDA SON 2 PUTOS DÍAS: Un reto consciente que llevará al límite tu mente mortal",
-      "precio": $220,
+      "precio": "$220",
       "genero": "autoayuda"
     },
     {
       "titulo": "Muchas vidas, muchos maestros",
-      "precio": $220,
+      "precio": "$220",
       "genero": "autoayuda"
     },
     {
       "titulo": "El Club de Las 5 de la Mañana: Controla Tus Mañanas, Impulsa Tu Vida",
-      "precio": $220,
+      "precio": "$220",
       "genero": "autoayuda"
     },
     {
       "titulo": "Hábitos Atómicos",
-      "precio": $230,
+      "precio": "$230",
       "genero": "autoayuda"
     },
     {
       "titulo": "Las Trampas Del Miedo: Una visita a las dimensiones biológicas, psicológicas y espirituales para desmantelar el temor paralizante y la tiranía del autosabotaje",
-      "precio": $260,
+      "precio": "$260",
       "genero": "autoayuda"
     },
     {
       "titulo": "Mi amor de wattpad",
-      "precio": $230,
+      "precio": "$230",
       "genero": "romance"
     },
     {
       "titulo": "Un grito desesperado",
-      "precio": $160,
+      "precio": "$160",
       "genero": "autoayuda"
     },
     {
       "titulo": "La maestría del amor: Una guía práctica para el arte de las relaciones",
-      "precio": $160,
+      "precio": "$160",
       "genero": "autoayuda"
     },
     {
       "titulo": "El Quinto Acuerdo: Una Guía Práctica Para La Maestría Personal",
-      "precio": $160,
+      "precio": "$160",
       "genero": "autoayuda"
     },
     {
       "titulo": "Los cuatro acuerdos: Un libro de sabiduría tolteca",
-      "precio": $160,
+      "precio": "$160",
       "genero": "autoayuda"
     },
     {
       "titulo": "Generación idiota: Una crítica al adolescentrismo",
-      "precio": $210,
+      "precio": "$210",
       "genero": "autoayuda"
     },
     {
       "titulo": "El poder del ahora",
-      "precio": $210,
+      "precio": "$210",
       "genero": "autoayuda"
     },
     {
       "titulo": "La inteligencia emocional: Por qué es más importante que el cociente intelectual",
-      "precio": $210,
+      "precio": "$210",
       "genero": "autoayuda"
     },
     {
       "titulo": "Tres promesas",
-      "precio": $210,
+      "precio": "$210",
       "genero": "romance"
     },
     {
       "titulo": "Coraline",
-      "precio": $160,
+      "precio": "$160",
       "genero": "infantil"
     },
     {
       "titulo": "Los ojos de plata",
-      "precio": $220,
+      "precio": "$220",
       "genero": "infantil"
     },
     {
       "titulo": "Los otros animatrónicos",
-      "precio": $220,
+      "precio": "$220",
       "genero": "infantil"
     },
     {
       "titulo": "Uno siempre cambia al amor de su vida (por otro amor o por otra vida)",
-      "precio": $200,
+      "precio": "$200",
       "genero": "romance"
     },
     {
       "titulo": "Nadie Tiene Que Saberlo Excepto Tú",
-      "precio": $180,
+      "precio": "$180",
       "genero": "romance"
     },
     {
       "titulo": "El (des)amor que jamás viví",
-      "precio": $180,
+      "precio": "$180",
       "genero": "romance"
     },
     {
       "titulo": "Latidos que no dije",
-      "precio": $180,
+      "precio": "$180",
       "genero": "romance"
     },
     {
       "titulo": "Psicología oscura: Una guía esencial de persuasión, manipulación, engaño, control mental, negociación, conducta humana, PNL y guerra psicológica",
-      "precio": $210,
+      "precio": "$210",
       "genero": "autoayuda"
     },
     {
       "titulo": "PSICOLOGÍA OSCURA & MANIPULACIÓN MENTAL: 5 libros en 1 Técnicas Ocultas de Psicología Oscura, PNL y Persuasión | Terapia Cognitivo Conductual (TCC), ... e Inteligencia Emocional.",
-      "precio": $340,
+      "precio": "$340",
       "genero": "autoayuda"
     },
     {
       "titulo": "El hombre más rico de Babilonia",
-      "precio": $160,
+      "precio": "$160",
       "genero": "autoayuda"
     },
     {
       "titulo": "PNL Técnicas prohibidas de Persuasión",
-      "precio": $210,
+      "precio": "$210",
       "genero": "autoayuda"
     },
     {
       "titulo": "¿Quién se ha llevado mi queso?: Cómo adaptarnos a un mundo en constante cambio",
-      "precio": $130,
+      "precio": "$130",
       "genero": "autoayuda"
     },
  {
       "titulo": "Los siete maridos de Evelyn Hugo",
-      "precio": $240,
+      "precio": "$240",
       "genero": "romance"
     },
     {
       "titulo": "Culpa mía",
-      "precio": $260,
+      "precio": "$260",
       "genero": "romance"
     },
     {
       "titulo": "Culpa tuya",
-      "precio": $260,
+      "precio": "$260",
       "genero": "romance"
     },
     {
       "titulo": "Culpa nuestra",
-      "precio": $260,
+      "precio": "$260",
       "genero": "romance"
     },
     {
       "titulo": "Comer, rezar, amar",
-      "precio": $280,
+      "precio": "$280",
       "genero": "romance"
     },
     {
       "titulo": "Donde todo brilla",
-      "precio": $280,
+      "precio": "$280",
       "genero": "romance"
     },
     {
       "titulo": "Aristóteles y Dante se sumergen en las aguas del mundo",
-      "precio": $260,
+      "precio": "$260",
       "genero": "ficcion"
     },
     {
       "titulo": "El psicoanalista",
-      "precio": $260,
+      "precio": "$260",
       "genero": "ficcion"
     },
     {
       "titulo": "Damián: Un secreto oscuro y perverso",
-      "precio": $260,
+      "precio": "$260",
       "genero": "terror"
     },
     {
       "titulo": "El murmullo de las abejas",
-      "precio": $280,
+      "precio": "$280",
       "genero": "ficcion"
     },
     {
       "titulo": "Te espero en el fin del mundo",
-      "precio": $280,
+      "precio": "$280",
       "genero": "romance"
     },
     {
       "titulo": "El arte de la seducción",
-      "precio": $340,
+      "precio": "$340",
       "genero": "autoayuda"
     },
     {
       "titulo": "Rojo, blanco y sangre azul",
-      "precio": $280,
+      "precio": "$280",
       "genero": "romance"
     },
     {
       "titulo": "Tus Zonas Erróneas: Guía Para Combatir Las Causas de la Infelicidad",
-      "precio": $160,
+      "precio": "$160",
       "genero": "autoayuda"
     },
     {
       "titulo": "Fortaleza digital",
-      "precio": $260,
+      "precio": "$260",
       "genero": "ficcion"
     },
     {
       "titulo": "Trenza del Mar Esmeralda",
-      "precio": $260,
+      "precio": "$260",
       "genero": "ficcion"
     },
     {
       "titulo": "Cazadores de sombras. Ciudad de ceniza. Vol. 2",
-      "precio": $240,
+      "precio": "$240",
       "genero": "ficcion"
     },
     {
       "titulo": "El resplandor",
-      "precio": $260,
+      "precio": "$260",
       "genero": "terror"
     },
     {
       "titulo": "Cuestión de dignidad: El derecho a decir no",
-      "precio": $190,
+      "precio": "$190",
       "genero": "autoayuda"
     },
     {
       "titulo": "Ya te dije adiós, ahora cómo te olvido",
-      "precio": $190,
+      "precio": "$190",
       "genero": "autoayuda"
     },
     {
       "titulo": "¿Amar o depender?",
-      "precio": $190,
+      "precio": "$190",
       "genero": "autoayuda"
     },
     {
       "titulo": "Los límites del amor",
-      "precio": $190,
+      "precio": "$190",
       "genero": "autoayuda"
     },
     {
       "titulo": "Enamórate de ti",
-      "precio": $190,
+      "precio": "$190",
       "genero": "autoayuda"
     },
     {
       "titulo": "Manual para no morir de amor: Diez principios de supervivencia afectiva",
-      "precio": $210,
+      "precio": "$210",
       "genero": "autoayuda"
     },
     {
       "titulo": "Boulevard: La versión de Flor",
-      "precio": $220,
+      "precio": "$220",
       "genero": "romance"
     },
     {
       "titulo": "Boulevard 2: Después de él",
-      "precio": $220,
+      "precio": "$220",
       "genero": "romance"
     },
     {
       "titulo": "Antes de ella (Boulevard 3)",
-      "precio": $220,
+      "precio": "$220",
       "genero": "romance"
     },
     {
       "titulo": "Por qué los hombres aman a las cabronas: De arrastrada a mujer ideal",
-      "precio": $170,
+      "precio": "$170",
       "genero": "autoayuda"
     },
     {
       "titulo": "Pequeño Cerdo Capitalista",
-      "precio": $210,
+      "precio": "$210",
       "genero": "autoayuda"
     },
     {
       "titulo": "La psicología del dinero: Cómo piensan los ricos: 18 claves imperecederas sobre riqueza y felicidad",
-      "precio": $230,
+      "precio": "$230",
       "genero": "autoayuda"
     },
     {
       "titulo": "Padre Rico, Padre Pobre",
-      "precio": $210,
+      "precio": "$210",
       "genero": "autoayuda"
     },
     {
       "titulo": "Los 7 hábitos de la gente altamente efectiva",
-      "precio": $220,
+      "precio": "$220",
       "genero": "autoayuda"
     },
     {
       "titulo": "El super poder de cagarla siempre",
-      "precio": $210,
+      "precio": "$210",
       "genero": "autoayuda"
     },
     {
       "titulo": "7 heridas de la infancia que te marcan para siempre y cómo sanarlas jugando: Reconectando con tu niño/a interior para impactar y transformar vidas",
-      "precio": $180,
+      "precio": "$180",
       "genero": "autoayuda"
     },
     {
       "titulo": "La gran enciclopedia de la psicología: Leer a las personas, reconocer y utilizar las técnicas de manipulación, controlar sentimientos, deshacerse de los ... personalidad y mucho más",
-      "precio": $180,
+      "precio": "$180",
       "genero": "autoayuda"
     },
     {
       "titulo": "Ser Chingón Sin Ir A Harvard",
-      "precio": 160,
+      "precio": "$160",
       "genero": "autoayuda"
     },
     {
       "titulo": "El peregrino (Diario de un mago)",
-      "precio": $160,
+      "precio": "$160",
       "genero": "ficcion"
     },
     {
       "titulo": "El Alquimista",
-      "precio": $160,
+      "precio": "$160",
       "genero": "ficcion"
     },
     {
       "titulo": "Adulterio",
-      "precio": $180,
+      "precio": "$180",
       "genero": "ficcion"
     },
     {
       "titulo": "A través de la lluvia",
-      "precio": $220,
+      "precio": "$220",
       "genero": "romance"
     },
     {
       "titulo": "A través de ti",
-      "precio": $220,
+      "precio": "$220",
       "genero": "romance"
     },
     {
       "titulo": "A través de mi ventana",
-      "precio": $220,
+      "precio": "$220",
       "genero": "romance"
     },
     {
       "titulo": "Las mujeres que aman demasiado",
-      "precio": $240,
+      "precio": "$240",
       "genero": "autoayuda"
     },
     {
       "titulo": "Sí, si es contigo",
-      "precio": $230,
+      "precio": "$230",
       "genero": "romance"
     },
     {
       "titulo": "Punk 57",
-      "precio": $230,
+      "precio": "$230",
       "genero": "romance"
     },
     {
       "titulo": "Juventud en éxtasis",
-      "precio": $160,
+      "precio": "$160",
       "genero": "romance"
     },
     {
       "titulo": "Invisible (Edición ilustrada)",
-      "precio": $230,
+      "precio": "$230",
       "genero": "romance"
     },
     {
       "titulo": "Antes de diciembre",
-      "precio": $260,
+      "precio": "$260",
       "genero": "romance"
     },
     {
       "titulo": "Después de diciembre",
-      "precio": $260,
+      "precio": "$260",
       "genero": "romance"
     },
     {
       "titulo": "Tres meses",
-      "precio": $260,
+      "precio": "$260",
       "genero": "romance"
     },
      {
